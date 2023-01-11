@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programming\\ElementalBrawl\\ElementalBrawl\\ElementalBrawl\\Source\\ElementalBrawl\\ElementalBrawl.Build.cs",
+		"D:\\Programming\\ElementalBrawl\\ElementalBrawl\\ElementalBrawl\\Source\\ElementalBrawl.Target.cs",
+		"D:\\Programming\\ElementalBrawl\\ElementalBrawl\\ElementalBrawl\\Source\\ElementalBrawlEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

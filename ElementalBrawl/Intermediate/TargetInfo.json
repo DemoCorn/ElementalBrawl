@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ElementalBrawl",
+			"Path": "D:\\Programming\\ElementalBrawl\\ElementalBrawl\\ElementalBrawl\\Source\\ElementalBrawl.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ElementalBrawlEditor",
+			"Path": "D:\\Programming\\ElementalBrawl\\ElementalBrawl\\ElementalBrawl\\Source\\ElementalBrawlEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

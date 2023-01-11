@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ElementalBrawl.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{627DD999-8BE9-4F79-A498-DAD2EEFE48D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ElementalBrawl.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ElementalBrawlEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DC860F65-BD4E-4953-9296-ABFA71AFB77F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ElementalBrawl">
+      <UniqueIdentifier>{A883C97D-CE53-4A5B-B780-18A4C800B7CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ElementalBrawl\ElementalBrawl.Build.cs">
+      <Filter>Source\ElementalBrawl</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ElementalBrawl\ElementalBrawl.cpp">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementalBrawl\ElementalBrawl.h">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementalBrawl\ElementalBrawlCharacter.cpp">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementalBrawl\ElementalBrawlCharacter.h">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementalBrawl\ElementalBrawlGameMode.cpp">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementalBrawl\ElementalBrawlGameMode.h">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementalBrawl\ElementalBrawlHUD.cpp">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementalBrawl\ElementalBrawlHUD.h">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementalBrawl\ElementalBrawlProjectile.cpp">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementalBrawl\ElementalBrawlProjectile.h">
+      <Filter>Source\ElementalBrawl</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementalBrawl\Private">
+      <UniqueIdentifier>{75F75EE1-2A77-4589-9971-48797863ED6F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\MovesetParent.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ElementalBrawl\Public">
+      <UniqueIdentifier>{C0CCBFB6-56A6-48E0-99EC-F33A6816CD62}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\MovesetParent.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
