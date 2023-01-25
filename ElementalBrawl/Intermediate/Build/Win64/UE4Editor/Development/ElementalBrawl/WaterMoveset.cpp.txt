@@ -1,0 +1,17 @@
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\Definitions.ElementalBrawl.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\WaterMoveset.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\MovesetParent.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\../ElementalBrawlCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\ElementalBrawlCharacter.generated.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\../ElementalBrawlProjectile.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\ElementalBrawlProjectile.generated.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\MeleeProjectile.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\MeleeProjectile.generated.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\MovesetParent.generated.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\WaterMoveset.generated.h

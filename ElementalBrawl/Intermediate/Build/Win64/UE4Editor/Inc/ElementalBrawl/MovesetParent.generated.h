@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ELEMENTALBRAWL_MovesetParent_generated_h
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_SPARSE_DATA
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_RPC_WRAPPERS
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_INCLASS_NO_PURE_DECLS \
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_SPARSE_DATA
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_RPC_WRAPPERS
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_RPC_WRAPPERS_NO_PURE_DECLS
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMovesetParent(); \
 	friend struct Z_Construct_UClass_UMovesetParent_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(UMovesetParent)
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_INCLASS \
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_INCLASS \
 private: \
 	static void StaticRegisterNativesUMovesetParent(); \
 	friend struct Z_Construct_UClass_UMovesetParent_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UMovesetParent)
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_STANDARD_CONSTRUCTORS \
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMovesetParent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMovesetParent) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_ENHANCED_CONSTRUCTORS \
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UMovesetParent(UMovesetParent&&); \
@@ -58,28 +58,33 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMovesetParent)
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_PRIVATE_PROPERTY_OFFSET
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_10_PROLOG
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_GENERATED_BODY_LEGACY \
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__BasicAttackProjectile() { return STRUCT_OFFSET(UMovesetParent, BasicAttackProjectile); } \
+	FORCEINLINE static uint32 __PPO__BasicAttackMelee() { return STRUCT_OFFSET(UMovesetParent, BasicAttackMelee); } \
+	FORCEINLINE static uint32 __PPO__isActiveMoveset() { return STRUCT_OFFSET(UMovesetParent, isActiveMoveset); }
+
+
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_22_PROLOG
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_PRIVATE_PROPERTY_OFFSET \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_SPARSE_DATA \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_RPC_WRAPPERS \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_INCLASS \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_STANDARD_CONSTRUCTORS \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_PRIVATE_PROPERTY_OFFSET \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_SPARSE_DATA \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_RPC_WRAPPERS \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_INCLASS \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_GENERATED_BODY \
+#define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_PRIVATE_PROPERTY_OFFSET \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_SPARSE_DATA \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_INCLASS_NO_PURE_DECLS \
-	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_13_ENHANCED_CONSTRUCTORS \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_PRIVATE_PROPERTY_OFFSET \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_SPARSE_DATA \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_INCLASS_NO_PURE_DECLS \
+	ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

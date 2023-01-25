@@ -17,6 +17,9 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 	ELEMENTALBRAWL_API UClass* Z_Construct_UClass_UMovesetParent();
 	ENGINE_API UClass* Z_Construct_UClass_UActorComponent();
 	UPackage* Z_Construct_UPackage__Script_ElementalBrawl();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
+	ELEMENTALBRAWL_API UClass* Z_Construct_UClass_AElementalBrawlProjectile_NoRegister();
+	ELEMENTALBRAWL_API UClass* Z_Construct_UClass_AMeleeProjectile_NoRegister();
 // End Cross Module References
 	void UMovesetParent::StaticRegisterNativesUMovesetParent()
 	{
@@ -31,6 +34,20 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BasicAttackProjectile_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_BasicAttackProjectile;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BasicAttackMelee_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_BasicAttackMelee;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_isActiveMoveset_MetaData[];
+#endif
+		static void NewProp_isActiveMoveset_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_isActiveMoveset;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -46,6 +63,36 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 		{ "ModuleRelativePath", "Public/MovesetParent.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackProjectile_MetaData[] = {
+		{ "Category", "Projectile" },
+		{ "ModuleRelativePath", "Public/MovesetParent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackProjectile = { "BasicAttackProjectile", nullptr, (EPropertyFlags)0x0024080000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMovesetParent, BasicAttackProjectile), Z_Construct_UClass_AElementalBrawlProjectile_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackProjectile_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackProjectile_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackMelee_MetaData[] = {
+		{ "Category", "Projectile" },
+		{ "ModuleRelativePath", "Public/MovesetParent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackMelee = { "BasicAttackMelee", nullptr, (EPropertyFlags)0x0024080000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMovesetParent, BasicAttackMelee), Z_Construct_UClass_AMeleeProjectile_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackMelee_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackMelee_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_MetaData[] = {
+		{ "Category", "Active" },
+		{ "ModuleRelativePath", "Public/MovesetParent.h" },
+	};
+#endif
+	void Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_SetBit(void* Obj)
+	{
+		((UMovesetParent*)Obj)->isActiveMoveset = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset = { "isActiveMoveset", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UMovesetParent), &Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_SetBit, METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UMovesetParent_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackProjectile,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackMelee,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UMovesetParent_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UMovesetParent>::IsAbstract,
 	};
@@ -55,11 +102,11 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_UMovesetParent_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::PropPointers),
 		0,
 		0x00B000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::Class_MetaDataParams))
@@ -73,7 +120,7 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UMovesetParent, 1711587008);
+	IMPLEMENT_CLASS(UMovesetParent, 1413457414);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<UMovesetParent>()
 	{
 		return UMovesetParent::StaticClass();

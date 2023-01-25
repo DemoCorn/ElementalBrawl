@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ElementalBrawl.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{627DD999-8BE9-4F79-A498-DAD2EEFE48D7}</UniqueIdentifier>
+      <UniqueIdentifier>{3341ACA8-150B-4C14-8AFB-87DCDCEE8D32}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ElementalBrawl.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{DC860F65-BD4E-4953-9296-ABFA71AFB77F}</UniqueIdentifier>
+      <UniqueIdentifier>{281D3B8F-4F2B-425D-AE3A-C49815D863BE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ElementalBrawl">
-      <UniqueIdentifier>{A883C97D-CE53-4A5B-B780-18A4C800B7CD}</UniqueIdentifier>
+      <UniqueIdentifier>{25368924-16D0-4E96-9F3A-96AC5FF55C5B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ElementalBrawl\ElementalBrawl.Build.cs">
       <Filter>Source\ElementalBrawl</Filter>
@@ -66,15 +66,45 @@
       <Filter>Source\ElementalBrawl</Filter>
     </ClInclude>
     <Filter Include="Source\ElementalBrawl\Private">
-      <UniqueIdentifier>{75F75EE1-2A77-4589-9971-48797863ED6F}</UniqueIdentifier>
+      <UniqueIdentifier>{3651C510-72DD-47C0-A595-3D33775F998D}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\AirMoveset.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\EarthMoveset.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\FireMoveset.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\MeleeProjectile.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\MovesetParent.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\WaterMoveset.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\ElementalBrawl\Public">
-      <UniqueIdentifier>{C0CCBFB6-56A6-48E0-99EC-F33A6816CD62}</UniqueIdentifier>
+      <UniqueIdentifier>{B4A1EA05-3B46-47EA-8976-BC60E5367DDB}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\AirMoveset.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\EarthMoveset.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\FireMoveset.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\MeleeProjectile.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\MovesetParent.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\WaterMoveset.h">
       <Filter>Source\ElementalBrawl\Public</Filter>
     </ClInclude>
   </ItemGroup>

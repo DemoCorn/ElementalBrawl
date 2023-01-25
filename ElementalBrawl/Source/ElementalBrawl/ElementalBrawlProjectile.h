@@ -22,8 +22,11 @@ class AElementalBrawlProjectile : public AActor
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
 	UProjectileMovementComponent* ProjectileMovement;
 
+
 public:
 	AElementalBrawlProjectile();
+
+	float mDamage = 0.0f;
 
 	/** called when projectile hits something */
 	UFUNCTION()

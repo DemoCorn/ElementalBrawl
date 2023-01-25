@@ -1,0 +1,1165 @@
+﻿Log file open, 01/24/23 16:45:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ElementalBrawl
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.530434
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername="Demon Unicorn" -epicuserid=c77912c0e02143e3b85aa85cb473376f -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.25-00.45.14:303][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.01.25-00.45.14:303][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.01.25-00.45.14:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.01.25-00.45.14:303][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.01.25-00.45.14:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.01.25-00.45.14:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.01.25-00.45.14:304][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.01.25-00.45.14:324][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.25-00.45.14:324][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.25-00.45.14:325][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.25-00.45.14:325][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.25-00.45.14:325][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.01.25-00.45.14:325][  0]LogHAL: Display: Platform has ~ 64 GB [68625903616 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.25-00.45.14:326][  0]LogInit: Going up to parent DeviceProfile []
+[2023.01.25-00.45.14:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.25-00.45.14:326][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.25-00.45.14:327][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.25-00.45.14:328][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.01.25-00.45.14:328][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.25-00.45.14:328][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.25-00.45.14:328][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.01.25-00.45.14:328][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Editor.ini]
+[2023.01.25-00.45.14:328][  0]LogInit: Computer: DESKTOP-2TM97B3
+[2023.01.25-00.45.14:328][  0]LogInit: User: orion
+[2023.01.25-00.45.14:328][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.25-00.45.14:328][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.25-00.45.14:328][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2023.01.25-00.45.14:328][  0]LogMemory: Platform Memory Stats for Windows
+[2023.01.25-00.45.14:328][  0]LogMemory: Process Physical Memory: 152.08 MB used, 154.90 MB peak
+[2023.01.25-00.45.14:328][  0]LogMemory: Process Virtual Memory: 132.42 MB used, 132.42 MB peak
+[2023.01.25-00.45.14:328][  0]LogMemory: Physical Memory: 29370.02 MB used,  36076.75 MB free, 65446.76 MB total
+[2023.01.25-00.45.14:328][  0]LogMemory: Virtual Memory: 134148376.00 MB used,  69349.73 MB free, 134217728.00 MB total
+[2023.01.25-00.45.14:335][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.25-00.45.14:436][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.01.25-00.45.14:440][  0]LogInit: Using OS detected language (en-US).
+[2023.01.25-00.45.14:440][  0]LogInit: Using OS detected locale (en-CA).
+[2023.01.25-00.45.14:459][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.01.25-00.45.14:871][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.25-00.45.14:889][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.25-00.45.14:954][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.25-00.45.14:954][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.25-00.45.17:957][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.25-00.45.18:144][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2023.01.25-00.45.18:144][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.25-00.45.18:144][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.01.25-00.45.18:144][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.25-00.45.18:306][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2023.01.25-00.45.18:306][  0]LogD3D11RHI:       7988/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:       0/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     SubSysId    : 85aa1043
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     DedicatedVideoMemory : 8376025088 bytes
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     SharedSystemMemory : 34312951808 bytes
+[2023.01.25-00.45.18:309][  0]LogD3D11RHI:     AdapterLuid : 0 75155
+[2023.01.25-00.45.18:320][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.25-00.45.18:320][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.25-00.45.18:320][  0]LogWindows: EnumDisplayDevices:
+[2023.01.25-00.45.18:320][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2023.01.25-00.45.18:321][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2023.01.25-00.45.18:321][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.01.25-00.45.18:322][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.01.25-00.45.18:322][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.01.25-00.45.18:322][  0]LogRHI: Texture pool is 5591 MB (70% of 7988 MB)
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     SubSysId    : 85aa1043
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     DedicatedVideoMemory : 8376025088 bytes
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     SharedSystemMemory : 34312951808 bytes
+[2023.01.25-00.45.18:322][  0]LogD3D11RHI:     AdapterLuid : 0 75155
+[2023.01.25-00.45.18:405][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.25-00.45.18:405][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.25-00.45.18:405][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.25-00.45.18:443][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.25-00.45.18:479][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.25-00.45.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.25-00.45.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.25-00.45.18:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.25-00.45.18:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.25-00.45.18:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.25-00.45.18:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.01.25-00.45.18:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.25-00.45.18:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.25-00.45.18:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.01.25-00.45.18:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.01.25-00.45.18:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.01.25-00.45.19:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.01.25-00.45.19:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.01.25-00.45.19:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.01.25-00.45.19:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.01.25-00.45.19:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.01.25-00.45.19:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.01.25-00.45.19:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.25-00.45.19:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.25-00.45.19:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.01.25-00.45.19:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.25-00.45.19:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.25-00.45.19:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.25-00.45.19:089][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.01.25-00.45.19:101][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.25-00.45.19:158][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.01.25-00.45.19:220][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.25-00.45.19:220][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Intermediate/Shaders/WorkingDirectory/56136/).
+[2023.01.25-00.45.19:220][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/orion/AppData/Local/Temp/UnrealShaderWorkingDir/3DDB30F34F40066612F5E997D1F115E1/'.
+[2023.01.25-00.45.19:221][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.25-00.45.19:221][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.01.25-00.45.19:221][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.01.25-00.45.23:090][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.01.25-00.45.23:206][  0]LogDerivedDataCache: Loaded boot cache 0.12s 99MB C:/Users/orion/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.25-00.45.23:206][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/orion/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.01.25-00.45.23:206][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.25-00.45.23:206][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.01.25-00.45.23:206][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.25-00.45.23:206][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.01.25-00.45.23:236][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.01.25-00.45.23:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.25-00.45.23:236][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.01.25-00.45.23:255][  0]LogDerivedDataCache: Speed tests for C:/Users/orion/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.01.25-00.45.23:255][  0]LogDerivedDataCache: Display: Performance to C:/Users/orion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=143.95MBs, RandomWriteSpeed=101.42MBs. Assigned SpeedClass 'Local'
+[2023.01.25-00.45.23:256][  0]LogDerivedDataCache: Using Local data cache path C:/Users/orion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.25-00.45.23:256][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.25-00.45.23:256][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.01.25-00.45.23:325][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.25-00.45.23:325][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.25-00.45.23:363][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2023.01.25-00.45.23:680][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.25-00.45.23:680][  0]LogInit: Active device profile: [0000019A9B52E600][0000019A9B011340 49] Windows
+[2023.01.25-00.45.23:680][  0]LogInit: Profiles: [0000019A9B52E600][0000019A9B011340 49] Windows, [0000019A9B4DC200][0000019A9B0194C0 49] WindowsNoEditor, [0000019A9B52EE00][0000019A9B01D640 49] WindowsServer, [0000019A9B4DEA00][0000019A9C2837C0 49] WindowsClient, [0000019A9B52EF00][0000019A9C287940 49] IOS, [0000019A9B4DCF00][0000019A9C28BAC0 49] iPadAir, [0000019A9B52F100][0000019A9C28E0C0 49] iPadAir2, [0000019A9B49A000][0000019A9C296380 49] IPadPro, [0000019A9B49A100][0000019A9C2923C0 49] iPadAir3, [0000019A9B52D000][0000019A9C29A540 49] iPadAir4, [0000019A9B49A200][0000019A9C29E6C0 49] iPadMini2, [0000019A9B52FC00][0000019A9B014800 49] iPadMini3, [0000019A9B499D00][0000019A9C2A2940 49] iPadMini4, [0000019A9B52F400][0000019A9C2A6A80 49] iPadMini5, [0000019A9B4D5900][0000019A9C2B2D00 49] iPhone6, [0000019A9B4D5A00][0000019A9C2AAD40 49] iPodTouch6, [0000019A9B499900][0000019A9C317000 49] iPhone7, [0000019A9B499500][0000019A9C2B7040 49] iPodTouch7, [0000019A9B4D5E00][0000019A9C31B1C0 49] iPhone5S, [0000019A9B499700][0000019A9C31F340 49] iPhone6Plus, [0000019A9B4D6100][0000019A9C3234C0 49] iPhone6S, [0000019A9B49AE00][0000019A9C327640 49] iPhone6SPlus, [0000019A9B4D7D00][0000019A9C32B7C0 49] iPhone7Plus, [0000019A9B49A300][0000019A9C32F940 49] iPhoneSE, [0000019A9B4D7A00][0000019A9C333AC0 49] iPhone8, [0000019A9B49A400][0000019A9C3360C0 49] iPhone8Plus, [0000019A9B4D4400][0000019A9C33A240 49] iPhoneX, [0000019A9B49B000][0000019A9C33E3C0 49] iPhoneXS, [0000019A9B4D6900][0000019A9C342540 49] iPhoneXSMax, [0000019A9B498500][0000019A9C3466C0 49] iPhoneXR, [0000019A9B4D5200][0000019A9C34A840 49] iPhone11, [0000019A9B499100][0000019A9C2AE980 49] iPhone11Pro, [0000019A9B4D4E00][0000019A9C34EAC0 49] iPhone11ProMax, [0000019A9B49A500][0000019A9C352C00 49] iPhoneSE2, [0000019A9B4D5400][0000019A9C356D40 49] iPhone12Mini, [0000019A9B499A00][0000019A9C35EEC0 49] iPhone12, [0000019A9B4D5300][0000019A9C363040 49] iPhone12Pro, [0000019A9B498900][0000019A9C3671C0 49] iPhone12ProMax, [0000019A9B4D7E00][0000019A9C36B340 49] iPadPro105, [0000019A9B498300][0000019A9C36F4C0 49] iPadPro129, [0000019A9B4D4600][0000019A9C373640 49] iPadPro97, [0000019A9B49B400][0000019A9C3777C0 49] iPadPro2_129, [0000019A9B4D7F00][0000019A9C37B940 49] iPad5, [0000019A9B499300][0000019A9C37FAC0 49] iPad6, [0000019A9B4D7C00][0000019A9C3820C0 49] iPad7, [0000019A9B499800][0000019A9C386240 49] iPad8, [0000019A9B564300][0000019A9C38A3C0 49] iPadPro11, [0000019A9B4DD900][0000019A9C38E540 49] iPadPro2_11, [0000019A9B564A00][0000019A9C3926C0 49] iPadPro3_129, [0000019A9B4DF100][0000019A9C396840 49] iPadPro4_129, [0000019A9B565600][0000019A9C39A9C0 49] AppleTV, [0000019A9B4DE800][0000019A9C39EB40 49] AppleTV4K, [0000019A9B564900][0000019A9C35AC80 49] TVOS, [0000019A9B4D7500][0000019A9C3A2DC0 49] Mac, [0000019A9B49BD00][0000019A9C3A6F00 49] MacClient, [0000019A9B4D7200][0000019A9C3AF080 49] MacNoEditor, [0000019A9B498800][0000019A9C3B3200 49] MacServer, [0000019A9B4D4300][0000019A9C3B7380 49] Linux, [0000019A9B49B300][0000019A9C3BB500 49] LinuxAArch64, [0000019A9B4D4B00][0000019A9C3BF680 49] LinuxNoEditor, [0000019A9B49BF00][0000019A9C3C3800 49] LinuxAArch64NoEditor, [0000019A9B4D6600][0000019A9C3C7980 49] LinuxClient, [0000019A9B49AA00][0000019A9C3CBB00 49] LinuxAArch64Client, [0000019A9B4D7000][0000019A9C3CE100 49] LinuxServer, [0000019A9B499600][0000019A9C3D2280 49] LinuxAArch64Server, [0000019A9B4D5D00][0000019A9C3D6400 49] Android, [0000019A9B49A800][0000019A9C3DA580 49] Android_Low, [0000019A9B4D7B00][0000019A9C3DE700 49] Android_Mid, [0000019A9B498600][0000019A9C3E2880 49] Android_High, [0000019A9B4D4D00][0000019A9C3E6A00 49] Android_Default, [0000019A9B49BA00][0000019A9C3EAB80 49] Android_Adreno4xx, [0000019A9B4D7800][0000019A9C3EED00 49] Android_Adreno5xx_Low, [0000019A9B498B00][0000019A9C3AAE40 49] Android_Adreno5xx, [0000019A9B4D4100][0000019A9C3F2F80 49] Android_Adreno6xx, [0000019A9B49A900][0000019A9C3F70C0 49] Android_Adreno6xx_Vulkan, [0000019A9B565200][0000019A9C3FF240 49] Android_Mali_T6xx, [0000019A9B498C00][0000019A9C4033C0 49] Android_Mali_T7xx, [0000019A9B564400][0000019A9C407540 49] Android_Mali_T8xx, [0000019A9B499B00][0000019A9C40B6C0 49] Android_Mali_G71, [0000019A9B4D6F00][0000019A9C40F840 49] Android_Mali_G72, [0000019A9B499200][0000019A9C4139C0 49] Android_Mali_G72_Vulkan, [0000019A9B4D7900][0000019A9C417B40 49] Android_Mali_G76, [0000019A9B49B100][0000019A9C41A140 49] Android_Mali_G76_Vulkan, [0000019A9B4D7400][0000019A9C41E2C0 49] Android_Mali_G77, [0000019A9B499400][0000019A9C422440 49] Android_Mali_G77_Vulkan, [0000019A9B4D6500][0000019A9C4265C0 49] Android_Mali_G78, [0000019A9B49AC00][0000019A9C42A740 49] Android_Mali_G78_Vulkan, [0000019A9B4D4200][0000019A9D4408C0 49] Android_Mali_G710, [0000019A9B49B800][0000019A9D444A40 49] Android_Mali_G710_Vulkan, [0000019A9B4D5100][0000019A9D448BC0 49] Android_Vulkan_SM5, [0000019A9B49BB00][0000019A9D44CD40 49] Android_PowerVR_G6xxx, [0000019A9B4D6B00][0000019A9D450EC0 49] Android_PowerVR_GT7xxx, [0000019A9B499000][0000019A9C3FB000 49] Android_PowerVR_GE8xxx, [0000019A9B4D7100][0000019A9D455140 49] Android_PowerVR_GM9xxx, [0000019A9B498700][0000019A9D459280 49] Android_PowerVR_GM9xxx_Vulkan, [0000019A9B4D6800][0000019A9D45D3C0 49] Android_TegraK1, [0000019A9B4DD600][0000019A9D465540 49] Android_Unknown_Vulkan, [0000019A9B4D6E00][0000019A9D4696C0 49] Lumin, [0000019A9B52FD00][0000019A9D46D840 49] Lumin_Desktop, [0000019A9B49AB00][0000019A9D4719C0 49] HoloLens, 
+[2023.01.25-00.45.23:994][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.25-00.45.23:994][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.25-00.45.23:994][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.25-00.45.23:994][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.25-00.45.23:994][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.25-00.45.24:056][  0]LogNetVersion: ElementalBrawl 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2805587885)
+[2023.01.25-00.45.25:525][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.25-00.45.25:686][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.01.25-00.45.25:695][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.01.25-00.45.25:695][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.01.25-00.45.25:695][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.25-00.45.26:471][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0AAB6A5F4CBC2CEC3562DD9F10BF83FE | Instance: 1940138E42842253D128E2AD60EEA5E8 (DESKTOP-2TM97B3-56136).
+[2023.01.25-00.45.26:729][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.25-00.45.26:736][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.25-00.45.26:757][  0]LogPython: Using Python 3.7.7
+[2023.01.25-00.45.28:802][  0]SourceControl: Source control is disabled
+[2023.01.25-00.45.28:802][  0]SourceControl: Source control is disabled
+[2023.01.25-00.45.28:810][  0]SourceControl: Source control is disabled
+[2023.01.25-00.45.28:816][  0]SourceControl: Source control is disabled
+[2023.01.25-00.45.28:825][  0]SourceControl: Source control is disabled
+[2023.01.25-00.45.28:844][  0]LogUProjectInfo: Found projects:
+[2023.01.25-00.45.29:336][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.25-00.45.29:353][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.25-00.45.29:381][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.25-00.45.29:381][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.25-00.45.29:909][  0]LogCollectionManager: Loaded 0 collections in 0.001982 seconds
+[2023.01.25-00.45.29:946][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Collections/' took 0.00s
+[2023.01.25-00.45.29:946][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/Developers/orion/Collections/' took 0.00s
+[2023.01.25-00.45.29:946][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/Collections/' took 0.00s
+[2023.01.25-00.45.29:960][  0]LogOcInput: OculusInput pre-init called
+[2023.01.25-00.45.30:372][  0]LogEngine: Initializing Engine...
+[2023.01.25-00.45.30:426][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.01.25-00.45.30:427][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2023.01.25-00.45.30:427][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.01.25-00.45.30:447][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2023.01.25-00.45.30:447][  0]LogHMD: - XR_KHR_D3D11_enable
+[2023.01.25-00.45.30:447][  0]LogHMD: - XR_KHR_D3D12_enable
+[2023.01.25-00.45.30:447][  0]LogHMD: - XR_KHR_opengl_enable
+[2023.01.25-00.45.30:447][  0]LogHMD: - XR_KHR_vulkan_enable
+[2023.01.25-00.45.30:447][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2023.01.25-00.45.30:447][  0]LogHMD: - XR_KHR_visibility_mask
+[2023.01.25-00.45.30:447][  0]LogHMD: - XR_EXT_hand_tracking
+[2023.01.25-00.45.30:499][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2023.01.25-00.45.30:499][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.01.25-00.45.30:501][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.25-00.45.30:904][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.25-00.45.30:920][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.25-00.45.30:921][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.25-00.45.30:929][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.25-00.45.30:935][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.25-00.45.30:936][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.25-00.45.30:936][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.25-00.45.30:936][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.25-00.45.30:936][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.25-00.45.30:936][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.25-00.45.30:936][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.25-00.45.30:936][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.25-00.45.30:936][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.25-00.45.30:936][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.25-00.45.30:936][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.25-00.45.30:937][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.25-00.45.30:937][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.25-00.45.30:937][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.25-00.45.30:937][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 2: FrontCenter
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 3: LowFrequency
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 4: BackLeft
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 5: BackRight
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 6: SideLeft
+[2023.01.25-00.45.30:973][  0]LogAudioMixer: Display: 7: SideRight
+[2023.01.25-00.45.31:008][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.01.25-00.45.31:008][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.25-00.45.31:040][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.25-00.45.31:040][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.25-00.45.31:041][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.25-00.45.31:041][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.25-00.45.31:041][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.01.25-00.45.31:042][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.25-00.45.31:042][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.25-00.45.31:042][  0]LogInit: FAudioDevice initialized.
+[2023.01.25-00.45.31:043][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.25-00.45.31:043][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.25-00.45.31:126][  0]LogDerivedDataCache: Saved boot cache 0.08s 99MB C:/Users/orion/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.25-00.45.31:126][  0]LogInit: Texture streaming: Enabled
+[2023.01.25-00.45.31:143][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.01.25-00.45.31:150][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.25-00.45.31:151][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={ED84382A-4D3F-4E54-F56D-BEA352B1E839}
+[2023.01.25-00.45.31:151][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.01.25-00.45.31:156][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.01.25-00.45.31:195][  0]LogInit: Transaction tracking system initialized
+[2023.01.25-00.45.31:233][  0]BlueprintLog: New page: Editor Load
+[2023.01.25-00.45.31:353][  0]LocalizationService: Localization service is disabled
+[2023.01.25-00.45.31:402][  0]TimingProfiler: Initialize
+[2023.01.25-00.45.31:403][  0]TimingProfiler: OnSessionChanged
+[2023.01.25-00.45.31:404][  0]LoadingProfiler: Initialize
+[2023.01.25-00.45.31:404][  0]LoadingProfiler: OnSessionChanged
+[2023.01.25-00.45.31:404][  0]NetworkingProfiler: Initialize
+[2023.01.25-00.45.31:405][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.25-00.45.31:405][  0]MemoryProfiler: Initialize
+[2023.01.25-00.45.31:405][  0]MemoryProfiler: OnSessionChanged
+[2023.01.25-00.45.32:116][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.01.25-00.45.32:116][  0]LogCook: Display: Mobile HDR setting 1
+[2023.01.25-00.45.32:291][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/' took 0.01s
+[2023.01.25-00.45.32:781][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.25-00.45.32:794][  0]SourceControl: Source control is disabled
+[2023.01.25-00.45.32:794][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.006
+[2023.01.25-00.45.32:795][  0]Cmd: MAP LOAD FILE="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.25-00.45.32:797][  0]LightingResults: New page: Lighting Build
+[2023.01.25-00.45.32:800][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-00.45.32:801][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-00.45.32:801][  0]MapCheck: New page: Map Check
+[2023.01.25-00.45.32:801][  0]LightingResults: New page: Lighting Build
+[2023.01.25-00.45.32:809][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.25-00.45.32:813][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.25-00.45.33:069][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2023.01.25-00.45.33:070][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.01.25-00.45.33:090][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.25-00.45.33:106][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.25-00.45.33:106][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.25-00.45.33:107][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2023.01.25-00.45.33:107][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.311
+[2023.01.25-00.45.33:111][  0]LogUnrealEdMisc: Total Editor Startup Time, took 23.322
+[2023.01.25-00.45.33:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-00.45.33:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-00.45.33:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-00.45.33:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-00.45.33:335][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 3829 classes and 931 folders.
+[2023.01.25-00.45.33:339][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.01.25-00.45.33:353][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.25-00.45.33:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.25-00.45.33:353][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:353][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.01.25-00.45.33:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000437
+[2023.01.25-00.45.33:364][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.25-00.45.33:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.25-00.45.33:364][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:364][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.01.25-00.45.33:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.01.25-00.45.33:372][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.01.25-00.45.33:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.01.25-00.45.33:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.01.25-00.45.33:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.01.25-00.45.33:379][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.25-00.45.33:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.25-00.45.33:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.01.25-00.45.33:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2023.01.25-00.45.33:391][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.25-00.45.33:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.25-00.45.33:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.01.25-00.45.33:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2023.01.25-00.45.33:399][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.25-00.45.33:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.25-00.45.33:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.01.25-00.45.33:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2023.01.25-00.45.33:407][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.25-00.45.33:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.25-00.45.33:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.01.25-00.45.33:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.01.25-00.45.33:415][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.25-00.45.33:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.25-00.45.33:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.01.25-00.45.33:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.01.25-00.45.33:423][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.25-00.45.33:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.25-00.45.33:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.01.25-00.45.33:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.01.25-00.45.33:432][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.25-00.45.33:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.25-00.45.33:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.01.25-00.45.33:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.01.25-00.45.33:439][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.25-00.45.33:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.25-00.45.33:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.01.25-00.45.33:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.01.25-00.45.33:446][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.25-00.45.33:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.25-00.45.33:447][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:447][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.01.25-00.45.33:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2023.01.25-00.45.33:457][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.25-00.45.33:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.25-00.45.33:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.01.25-00.45.33:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.01.25-00.45.33:464][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.25-00.45.33:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.25-00.45.33:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.01.25-00.45.33:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.01.25-00.45.33:471][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.25-00.45.33:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.25-00.45.33:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.01.25-00.45.33:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.01.25-00.45.33:479][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.25-00.45.33:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.25-00.45.33:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.01.25-00.45.33:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.01.25-00.45.33:489][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.25-00.45.33:489][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:489][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.25-00.45.33:489][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:489][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.01.25-00.45.33:489][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.01.25-00.45.33:498][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.25-00.45.33:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.25-00.45.33:499][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:499][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.01.25-00.45.33:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.01.25-00.45.33:506][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.25-00.45.33:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.25-00.45.33:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.01.25-00.45.33:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.01.25-00.45.33:518][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.25-00.45.33:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.25-00.45.33:518][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:518][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.01.25-00.45.33:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.01.25-00.45.33:527][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.25-00.45.33:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.25-00.45.33:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.01.25-00.45.33:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.01.25-00.45.33:535][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.25-00.45.33:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.25-00.45.33:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.01.25-00.45.33:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2023.01.25-00.45.33:545][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.01.25-00.45.33:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.01.25-00.45.33:545][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:545][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.01.25-00.45.33:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2023.01.25-00.45.33:554][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.25-00.45.33:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.25-00.45.33:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.01.25-00.45.33:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2023.01.25-00.45.33:566][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.25-00.45.33:566][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:566][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.25-00.45.33:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.01.25-00.45.33:566][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2023.01.25-00.45.33:577][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.25-00.45.33:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.25-00.45.33:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.25-00.45.33:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.25-00.45.33:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.01.25-00.45.33:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.01.25-00.45.33:949][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.01.25-00.45.33:956][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2023.01.25-00.45.34:016][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.25-00.45.34:030][  0]LogSlate: Took 0.012172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.25-00.45.34:032][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.25-00.45.34:295][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.01.25-00.45.34:441][  0]LogSlate: Took 0.007459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.25-00.45.34:505][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.01.25-00.45.34:505][  0]LogLoad: (Engine Initialization) Total time: 24.72 seconds
+[2023.01.25-00.45.34:505][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.25-00.45.34:561][  0]LogAssetRegistry: Asset discovery search completed in 11.1996 seconds
+[2023.01.25-00.45.34:597][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.01.25-00.45.34:600][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.25-00.45.36:118][ 15]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.25-00.45.38:942][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.25-00.45.44:585][588]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2023.01.25-00.45.50:019][102]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.25-00.46.10:887][920]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.25-00.46.10:972][920]LogSlate: Took 0.007366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.25-00.46.43:406][278]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" -game -rocket -progress
+[2023.01.25-00.46.44:020][278]Discovering modules, targets and source code for project...
+[2023.01.25-00.46.47:853][278]Binding IntelliSense data...
+[2023.01.25-00.46.57:661][278]Binding IntelliSense data... 100%
+[2023.01.25-00.46.57:661][278]Writing project files...
+[2023.01.25-00.47.02:503][278]Writing project files... 100%
+[2023.01.25-00.47.02:709][278]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.01.25-00.47.02:734][278]Candidate modules for hot reload:
+[2023.01.25-00.47.02:734][278]  ElementalBrawl
+[2023.01.25-00.47.02:734][278]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ElementalBrawl,5888 ElementalBrawlEditor Win64 Development -Project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" "D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject"  -IgnoreJunk]
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: New page: Compilation - Jan. 24, 2023, 8:47:22 a.m.
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Creating makefile for ElementalBrawlEditor (no existing makefile)
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Parsing headers for ElementalBrawlEditor
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\ElementalBrawl.uproject" "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\ElementalBrawlEditor\Development\ElementalBrawlEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\orion\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Reflection code generated for ElementalBrawlEditor in 14.4738745 seconds
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Building ElementalBrawlEditor...
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:   [1/6] ElementalBrawl.init.gen.cpp
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:   [2/6] MeleeProjectile.cpp
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:   [3/6] MeleeProjectile.gen.cpp
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:   [4/6] UE4Editor-ElementalBrawl-5888.lib
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5888.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5888.exp
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:   [5/6] UE4Editor-ElementalBrawl-5888.dll
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5888.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5888.suppressed.exp
+[2023.01.25-00.47.22:205][278]CompilerResultsLog:   [6/6] ElementalBrawlEditor.target
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Total time in Parallel executor: 2.01 seconds
+[2023.01.25-00.47.22:205][278]CompilerResultsLog: Total execution time: 19.37 seconds
+[2023.01.25-00.47.22:205][278]LogMainFrame: MainFrame: Module compiling took 19.497 seconds
+[2023.01.25-00.47.22:247][278]LogClass: Could not find existing class MeleeProjectile in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-00.47.22:255][278]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ElementalBrawl' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2023.01.25-00.47.22:259][278]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.25-00.47.22:320][278]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3830 classes and 931 folders.
+[2023.01.25-00.47.22:320][278]Display: HotReload took 19.6s.
+[2023.01.25-00.47.22:337][278]Warning: HotReload operation took 19.6s.
+[2023.01.25-00.47.22:487][278]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.01.25-00.47.22:507][278]LogHotReload: New module detected: UE4Editor-ElementalBrawl-5888.dll
+[2023.01.25-00.47.22:606][279]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.25-00.47.22:850][279]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ElementalBrawl' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2023.01.25-00.47.22:855][279]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.01.25-00.47.22:879][279]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0186 seconds. Added 3830 classes and 931 folders.
+[2023.01.25-00.47.22:891][279]Display: HotReload took  0.3s.
+[2023.01.25-01.10.12:139][795]Candidate modules for hot reload:
+[2023.01.25-01.10.12:139][795]  ElementalBrawl
+[2023.01.25-01.10.12:139][795]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ElementalBrawl,2607 ElementalBrawlEditor Win64 Development -Project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" "D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject"  -IgnoreJunk]
+[2023.01.25-01.10.12:146][795]Warning: Starting HotReload took  0.1s.
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: New page: Compilation - Jan. 24, 2023, 9:10:21 a.m.
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: Parsing headers for ElementalBrawlEditor
+[2023.01.25-01.10.21:035][897]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\ElementalBrawl.uproject" "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\ElementalBrawlEditor\Development\ElementalBrawlEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\orion\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: Reflection code generated for ElementalBrawlEditor in 4.8030815 seconds
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: Building ElementalBrawlEditor...
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.25-01.10.21:035][897]CompilerResultsLog: Building 8 actions with 12 processes...
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [1/8] ElementalBrawl.init.gen.cpp
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [2/8] ElementalBrawlProjectile.cpp
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [3/8] FireMoveset.cpp
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [4/8] MeleeProjectile.gen.cpp
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [5/8] MeleeProjectile.cpp
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [6/8] UE4Editor-ElementalBrawl-2607.lib
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-2607.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-2607.exp
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [7/8] UE4Editor-ElementalBrawl-2607.dll
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-2607.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-2607.suppressed.exp
+[2023.01.25-01.10.21:036][897]CompilerResultsLog:   [8/8] ElementalBrawlEditor.target
+[2023.01.25-01.10.21:036][897]CompilerResultsLog: Total time in Parallel executor: 2.68 seconds
+[2023.01.25-01.10.21:036][897]CompilerResultsLog: Total execution time: 8.68 seconds
+[2023.01.25-01.10.21:036][897]LogMainFrame: MainFrame: Module compiling took 8.905 seconds
+[2023.01.25-01.10.21:088][897]LogClass: Could not find existing class MeleeProjectile in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.10.21:088][897]LogClass: Function OnHit is new.
+[2023.01.25-01.10.21:088][897]LogClass: Function OnTick is new.
+[2023.01.25-01.10.21:103][897]LogHotReload: Re-instancing MeleeProjectile after hot-reload.
+[2023.01.25-01.10.21:111][897]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ElementalBrawl' in 0.0007 seconds. Added 8 classes and 3 folders.
+[2023.01.25-01.10.21:118][897]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.25-01.10.21:203][897]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0193 seconds. Added 3830 classes and 931 folders.
+[2023.01.25-01.10.21:203][897]Display: HotReload took  9.1s.
+[2023.01.25-01.13.45:144][108]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" -game -rocket -progress
+[2023.01.25-01.13.45:555][108]Discovering modules, targets and source code for project...
+[2023.01.25-01.13.47:975][108]Binding IntelliSense data...
+[2023.01.25-01.13.50:607][108]Binding IntelliSense data... 100%
+[2023.01.25-01.13.50:607][108]Writing project files...
+[2023.01.25-01.13.55:143][108]Writing project files... 100%
+[2023.01.25-01.13.55:263][108]Candidate modules for hot reload:
+[2023.01.25-01.13.55:263][108]  ElementalBrawl
+[2023.01.25-01.13.55:263][108]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ElementalBrawl,7690 ElementalBrawlEditor Win64 Development -Project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" "D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject"  -IgnoreJunk]
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: New page: Compilation - Jan. 24, 2023, 9:14:04 a.m.
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Creating makefile for ElementalBrawlEditor (no existing makefile)
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Parsing headers for ElementalBrawlEditor
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\ElementalBrawl.uproject" "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\ElementalBrawlEditor\Development\ElementalBrawlEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\orion\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Reflection code generated for ElementalBrawlEditor in 4.5391825 seconds
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Building ElementalBrawlEditor...
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:   [1/6] ElementalBrawl.init.gen.cpp
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:   [2/6] EarthMoveset.cpp
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:   [3/6] EarthMoveset.gen.cpp
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:   [4/6] UE4Editor-ElementalBrawl-7690.lib
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-7690.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-7690.exp
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:   [5/6] UE4Editor-ElementalBrawl-7690.dll
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-7690.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-7690.suppressed.exp
+[2023.01.25-01.14.04:723][108]CompilerResultsLog:   [6/6] ElementalBrawlEditor.target
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Total time in Parallel executor: 2.08 seconds
+[2023.01.25-01.14.04:723][108]CompilerResultsLog: Total execution time: 9.35 seconds
+[2023.01.25-01.14.04:723][108]LogMainFrame: MainFrame: Module compiling took 9.471 seconds
+[2023.01.25-01.14.04:752][108]LogClass: Could not find existing class EarthMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.14.04:765][108]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ElementalBrawl' in 0.0003 seconds. Added 9 classes and 3 folders.
+[2023.01.25-01.14.04:768][108]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.01.25-01.14.04:818][108]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3831 classes and 931 folders.
+[2023.01.25-01.14.04:818][108]Display: HotReload took  9.6s.
+[2023.01.25-01.14.04:834][108]Warning: HotReload operation took  9.6s.
+[2023.01.25-01.14.05:378][108]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Source/ElementalBrawl/Private/EarthMoveset.cpp'
+[2023.01.25-01.14.05:383][108]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.01.25-01.14.05:396][108]LogHotReload: New module detected: UE4Editor-ElementalBrawl-7690.dll
+[2023.01.25-01.14.05:471][109]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.25-01.14.05:503][109]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ElementalBrawl' in 0.0004 seconds. Added 9 classes and 3 folders.
+[2023.01.25-01.14.05:506][109]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.01.25-01.14.05:520][109]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 3831 classes and 931 folders.
+[2023.01.25-01.14.05:528][109]Display: HotReload took  0.1s.
+[2023.01.25-01.20.58:659][820]Candidate modules for hot reload:
+[2023.01.25-01.20.58:659][820]  ElementalBrawl
+[2023.01.25-01.20.58:659][820]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ElementalBrawl,4975 ElementalBrawlEditor Win64 Development -Project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" "D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject"  -IgnoreJunk]
+[2023.01.25-01.20.58:665][820]Warning: Starting HotReload took  0.1s.
+[2023.01.25-01.21.09:043][768]CompilerResultsLog: New page: Compilation - Jan. 24, 2023, 9:21:09 a.m.
+[2023.01.25-01.21.09:043][768]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+[2023.01.25-01.21.09:043][768]CompilerResultsLog: Parsing headers for ElementalBrawlEditor
+[2023.01.25-01.21.09:043][768]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\ElementalBrawl.uproject" "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\ElementalBrawlEditor\Development\ElementalBrawlEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\orion\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.25-01.21.09:043][768]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.01.25-01.21.09:044][768]CompilerResultsLog: Reflection code generated for ElementalBrawlEditor in 4.8680735 seconds
+[2023.01.25-01.21.09:044][768]CompilerResultsLog: Building ElementalBrawlEditor...
+[2023.01.25-01.21.09:044][768]CompilerResultsLog: Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.25-01.21.09:044][768]CompilerResultsLog: Building 13 actions with 12 processes...
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [1/13] ElementalBrawl.init.gen.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [2/13] WaterMoveset.gen.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [3/13] EarthMoveset.gen.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [4/13] MovesetParent.gen.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [5/13] FireMoveset.gen.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [6/13] WaterMoveset.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [7/13] MoveSetParent.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:    D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Private\MoveSetParent.cpp(72) : error C2065: 'ProjectileClass': undeclared identifier
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:    D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Private\MoveSetParent.cpp(86) : error C2065: 'ProjectileClass': undeclared identifier
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [8/13] FireMoveset.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [9/13] EarthMoveset.cpp
+[2023.01.25-01.21.09:044][768]CompilerResultsLog:   [10/13] ElementalBrawlCharacter.cpp
+[2023.01.25-01.21.09:044][768]LogMainFrame: MainFrame: Module compiling took 10.393 seconds
+[2023.01.25-01.21.09:060][768]Warning: HotReload failed, recompile failed
+[2023.01.25-01.21.11:114][995]LogSlate: Took 0.008207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.25-01.21.14:374][325]LogVSAccessor: Warning: Couldn't goto line number '72' in 'D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Private\MoveSetParent.cpp'
+[2023.01.25-01.21.36:357][391]Candidate modules for hot reload:
+[2023.01.25-01.21.36:357][391]  ElementalBrawl
+[2023.01.25-01.21.36:357][391]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ElementalBrawl,0385 ElementalBrawlEditor Win64 Development -Project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" "D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject"  -IgnoreJunk]
+[2023.01.25-01.21.36:363][391]Warning: Starting HotReload took  0.0s.
+[2023.01.25-01.21.40:715][740]CompilerResultsLog: New page: Compilation - Jan. 24, 2023, 9:21:40 a.m.
+[2023.01.25-01.21.40:715][740]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+[2023.01.25-01.21.40:715][740]CompilerResultsLog: Building ElementalBrawlEditor...
+[2023.01.25-01.21.40:715][740]CompilerResultsLog: Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.25-01.21.40:715][740]CompilerResultsLog: Building 4 actions with 12 processes...
+[2023.01.25-01.21.40:715][740]CompilerResultsLog:   [1/4] MoveSetParent.cpp
+[2023.01.25-01.21.40:715][740]CompilerResultsLog:   [2/4] UE4Editor-ElementalBrawl-0385.lib
+[2023.01.25-01.21.40:715][740]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0385.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0385.exp
+[2023.01.25-01.21.40:715][740]CompilerResultsLog:   [3/4] UE4Editor-ElementalBrawl-0385.dll
+[2023.01.25-01.21.40:715][740]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0385.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0385.suppressed.exp
+[2023.01.25-01.21.40:715][740]CompilerResultsLog:   [4/4] ElementalBrawlEditor.target
+[2023.01.25-01.21.40:715][740]CompilerResultsLog: Total time in Parallel executor: 3.03 seconds
+[2023.01.25-01.21.40:715][740]CompilerResultsLog: Total execution time: 4.23 seconds
+[2023.01.25-01.21.40:715][740]LogMainFrame: MainFrame: Module compiling took 4.366 seconds
+[2023.01.25-01.21.40:746][740]LogClass: Could not find existing class EarthMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.21.40:746][740]LogClass: Could not find existing class MovesetParent in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.21.40:748][740]LogClass: Could not find existing class FireMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.21.40:748][740]LogClass: Could not find existing class WaterMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.21.40:751][740]LogHotReload: Re-instancing EarthMoveset after hot-reload.
+[2023.01.25-01.21.40:764][740]LogHotReload: Re-instancing FireMoveset after hot-reload.
+[2023.01.25-01.21.40:772][740]LogHotReload: Re-instancing MovesetParent after hot-reload.
+[2023.01.25-01.21.40:780][740]LogHotReload: Re-instancing WaterMoveset after hot-reload.
+[2023.01.25-01.21.40:785][740]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ElementalBrawl' in 0.0004 seconds. Added 9 classes and 3 folders.
+[2023.01.25-01.21.40:789][740]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.01.25-01.21.40:840][740]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0110 seconds. Added 3831 classes and 931 folders.
+[2023.01.25-01.21.40:840][740]Display: HotReload took  4.5s.
+[2023.01.25-01.22.12:521][151]Candidate modules for hot reload:
+[2023.01.25-01.22.12:521][151]  ElementalBrawl
+[2023.01.25-01.22.12:521][151]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ElementalBrawl,0260 ElementalBrawlEditor Win64 Development -Project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" "D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject"  -IgnoreJunk]
+[2023.01.25-01.22.12:527][151]Warning: Starting HotReload took  0.0s.
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: New page: Compilation - Jan. 24, 2023, 9:22:24 a.m.
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Parsing headers for ElementalBrawlEditor
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\ElementalBrawl.uproject" "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\ElementalBrawlEditor\Development\ElementalBrawlEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\orion\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Reflection code generated for ElementalBrawlEditor in 4.9734549 seconds
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Building ElementalBrawlEditor...
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Building 13 actions with 12 processes...
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [1/13] ElementalBrawl.init.gen.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [2/13] EarthMoveset.gen.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [3/13] WaterMoveset.gen.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [4/13] MovesetParent.gen.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [5/13] WaterMoveset.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [6/13] EarthMoveset.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [7/13] FireMoveset.gen.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [8/13] FireMoveset.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [9/13] MoveSetParent.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [10/13] ElementalBrawlCharacter.cpp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [11/13] UE4Editor-ElementalBrawl-0260.lib
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0260.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0260.exp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [12/13] UE4Editor-ElementalBrawl-0260.dll
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0260.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0260.suppressed.exp
+[2023.01.25-01.22.24:116][184]CompilerResultsLog:   [13/13] ElementalBrawlEditor.target
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Total time in Parallel executor: 5.24 seconds
+[2023.01.25-01.22.24:116][184]CompilerResultsLog: Total execution time: 11.47 seconds
+[2023.01.25-01.22.24:117][184]LogMainFrame: MainFrame: Module compiling took 11.605 seconds
+[2023.01.25-01.22.24:155][184]LogClass: Could not find existing class EarthMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.22.24:155][184]LogClass: Could not find existing class MovesetParent in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.22.24:158][184]LogClass: Could not find existing class FireMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.22.24:158][184]LogClass: Could not find existing class WaterMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.22.24:161][184]LogHotReload: Re-instancing EarthMoveset after hot-reload.
+[2023.01.25-01.22.24:178][184]LogHotReload: Re-instancing FireMoveset after hot-reload.
+[2023.01.25-01.22.24:188][184]LogHotReload: Re-instancing MovesetParent after hot-reload.
+[2023.01.25-01.22.24:196][184]LogHotReload: Re-instancing WaterMoveset after hot-reload.
+[2023.01.25-01.22.24:204][184]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ElementalBrawl' in 0.0004 seconds. Added 9 classes and 3 folders.
+[2023.01.25-01.22.24:207][184]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.01.25-01.22.24:267][184]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0118 seconds. Added 3831 classes and 931 folders.
+[2023.01.25-01.22.24:267][184]Display: HotReload took 11.8s.
+[2023.01.25-01.22.59:490][ 66]Candidate modules for hot reload:
+[2023.01.25-01.22.59:491][ 66]  ElementalBrawl
+[2023.01.25-01.22.59:491][ 66]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ElementalBrawl,5345 ElementalBrawlEditor Win64 Development -Project="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject" "D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/ElementalBrawl.uproject"  -IgnoreJunk]
+[2023.01.25-01.22.59:497][ 66]Warning: Starting HotReload took  0.0s.
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: New page: Compilation - Jan. 24, 2023, 9:23:08 a.m.
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: Parsing headers for ElementalBrawlEditor
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\ElementalBrawl.uproject" "D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\ElementalBrawlEditor\Development\ElementalBrawlEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\orion\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: Reflection code generated for ElementalBrawlEditor in 4.9859967 seconds
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: Building ElementalBrawlEditor...
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.25-01.23.08:179][834]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:   [1/6] ElementalBrawl.init.gen.cpp
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:   [2/6] EarthMoveset.cpp
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:   [3/6] EarthMoveset.gen.cpp
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:   [4/6] UE4Editor-ElementalBrawl-5345.lib
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5345.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5345.exp
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:   [5/6] UE4Editor-ElementalBrawl-5345.dll
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:      Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5345.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5345.suppressed.exp
+[2023.01.25-01.23.08:179][834]CompilerResultsLog:   [6/6] ElementalBrawlEditor.target
+[2023.01.25-01.23.08:180][834]CompilerResultsLog: Total time in Parallel executor: 2.29 seconds
+[2023.01.25-01.23.08:180][834]CompilerResultsLog: Total execution time: 8.57 seconds
+[2023.01.25-01.23.08:180][834]LogMainFrame: MainFrame: Module compiling took 8.698 seconds
+[2023.01.25-01.23.08:212][834]LogClass: Could not find existing class EarthMoveset in package /Script/ElementalBrawl for HotReload, assuming new class
+[2023.01.25-01.23.08:212][834]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.25-01.23.08:212][834]LogWindows: Windows GetLastError: The operation completed successfully. (0)

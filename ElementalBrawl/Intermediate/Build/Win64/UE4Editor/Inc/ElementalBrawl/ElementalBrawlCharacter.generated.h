@@ -61,11 +61,11 @@ public: \
 #define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlCharacter_h_21_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(AElementalBrawlCharacter, Mesh1P); } \
 	FORCEINLINE static uint32 __PPO__FP_Gun() { return STRUCT_OFFSET(AElementalBrawlCharacter, FP_Gun); } \
-	FORCEINLINE static uint32 __PPO__FP_MuzzleLocation() { return STRUCT_OFFSET(AElementalBrawlCharacter, FP_MuzzleLocation); } \
 	FORCEINLINE static uint32 __PPO__VR_Gun() { return STRUCT_OFFSET(AElementalBrawlCharacter, VR_Gun); } \
 	FORCEINLINE static uint32 __PPO__VR_MuzzleLocation() { return STRUCT_OFFSET(AElementalBrawlCharacter, VR_MuzzleLocation); } \
 	FORCEINLINE static uint32 __PPO__FirstPersonCameraComponent() { return STRUCT_OFFSET(AElementalBrawlCharacter, FirstPersonCameraComponent); } \
 	FORCEINLINE static uint32 __PPO__R_MotionController() { return STRUCT_OFFSET(AElementalBrawlCharacter, R_MotionController); } \
+	FORCEINLINE static uint32 __PPO__FP_MuzzleLocation() { return STRUCT_OFFSET(AElementalBrawlCharacter, FP_MuzzleLocation); } \
 	FORCEINLINE static uint32 __PPO__L_MotionController() { return STRUCT_OFFSET(AElementalBrawlCharacter, L_MotionController); }
 
 

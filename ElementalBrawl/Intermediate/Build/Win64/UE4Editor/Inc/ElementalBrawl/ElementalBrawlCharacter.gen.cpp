@@ -22,8 +22,6 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	HEADMOUNTEDDISPLAY_API UClass* Z_Construct_UClass_UMotionControllerComponent_NoRegister();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
-	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
-	ELEMENTALBRAWL_API UClass* Z_Construct_UClass_AElementalBrawlProjectile_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USoundBase_NoRegister();
 	ELEMENTALBRAWL_API UClass* Z_Construct_UClass_UMovesetParent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
@@ -50,10 +48,6 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FP_Gun;
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FP_MuzzleLocation_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FP_MuzzleLocation;
-#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_VR_Gun_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_VR_Gun;
@@ -70,6 +64,10 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_R_MotionController;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FP_MuzzleLocation_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FP_MuzzleLocation;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_L_MotionController_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_L_MotionController;
@@ -85,10 +83,6 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_GunOffset_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FStructPropertyParams NewProp_GunOffset;
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ProjectileClass_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FClassPropertyParams NewProp_ProjectileClass;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FireSound_MetaData[];
 #endif
@@ -142,16 +136,6 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_Gun = { "FP_Gun", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlCharacter, FP_Gun), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_Gun_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_Gun_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation_MetaData[] = {
-		{ "Category", "Mesh" },
-		{ "Comment", "/** Location on gun mesh where projectiles should spawn. */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "ElementalBrawlCharacter.h" },
-		{ "ToolTip", "Location on gun mesh where projectiles should spawn." },
-	};
-#endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation = { "FP_MuzzleLocation", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlCharacter, FP_MuzzleLocation), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation_MetaData)) };
-#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_VR_Gun_MetaData[] = {
 		{ "Category", "Mesh" },
 		{ "Comment", "/** Gun mesh: VR view (attached to the VR controller directly, no arm, just the actual gun) */" },
@@ -194,6 +178,16 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_R_MotionController = { "R_MotionController", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlCharacter, R_MotionController), Z_Construct_UClass_UMotionControllerComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_R_MotionController_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_R_MotionController_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation_MetaData[] = {
+		{ "Category", "Mesh" },
+		{ "Comment", "/** Location on gun mesh where projectiles should spawn. */" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "ElementalBrawlCharacter.h" },
+		{ "ToolTip", "Location on gun mesh where projectiles should spawn." },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation = { "FP_MuzzleLocation", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlCharacter, FP_MuzzleLocation), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_L_MotionController_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "ElementalBrawlCharacter" },
@@ -232,15 +226,6 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 #endif
 	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_GunOffset = { "GunOffset", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlCharacter, GunOffset), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_GunOffset_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_GunOffset_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_ProjectileClass_MetaData[] = {
-		{ "Category", "Projectile" },
-		{ "Comment", "/** Projectile class to spawn */" },
-		{ "ModuleRelativePath", "ElementalBrawlCharacter.h" },
-		{ "ToolTip", "Projectile class to spawn" },
-	};
-#endif
-	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_ProjectileClass = { "ProjectileClass", nullptr, (EPropertyFlags)0x0014000000010001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlCharacter, ProjectileClass), Z_Construct_UClass_AElementalBrawlProjectile_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_ProjectileClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_ProjectileClass_MetaData)) };
-#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FireSound_MetaData[] = {
 		{ "Category", "Gameplay" },
 		{ "Comment", "/** Sound to play each time we fire */" },
@@ -252,10 +237,10 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_moveset_MetaData[] = {
 		{ "Category", "Gameplay" },
-		{ "Comment", "/** Sound to play each time we fire */" },
+		{ "Comment", "/** Moveset the player will use */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "ElementalBrawlCharacter.h" },
-		{ "ToolTip", "Sound to play each time we fire" },
+		{ "ToolTip", "Moveset the player will use" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_moveset = { "moveset", nullptr, (EPropertyFlags)0x001000000008000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlCharacter, moveset), Z_Construct_UClass_UMovesetParent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_moveset_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_moveset_MetaData)) };
@@ -284,16 +269,15 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AElementalBrawlCharacter_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_Mesh1P,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_Gun,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_VR_Gun,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_VR_MuzzleLocation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FirstPersonCameraComponent,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_R_MotionController,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FP_MuzzleLocation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_L_MotionController,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_BaseTurnRate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_BaseLookUpRate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_GunOffset,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_ProjectileClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FireSound,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_moveset,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlCharacter_Statics::NewProp_FireAnimation,
@@ -326,7 +310,7 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AElementalBrawlCharacter, 2751975574);
+	IMPLEMENT_CLASS(AElementalBrawlCharacter, 3354069445);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<AElementalBrawlCharacter>()
 	{
 		return AElementalBrawlCharacter::StaticClass();

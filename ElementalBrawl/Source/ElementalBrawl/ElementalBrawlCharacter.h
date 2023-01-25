@@ -28,10 +28,6 @@ class AElementalBrawlCharacter : public ACharacter
 	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
 	USkeletalMeshComponent* FP_Gun;
 
-	/** Location on gun mesh where projectiles should spawn. */
-	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
-	USceneComponent* FP_MuzzleLocation;
-
 	/** Gun mesh: VR view (attached to the VR controller directly, no arm, just the actual gun) */
 	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
 	USkeletalMeshComponent* VR_Gun;
@@ -48,6 +44,10 @@ class AElementalBrawlCharacter : public ACharacter
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	UMotionControllerComponent* R_MotionController;
 
+	/** Location on gun mesh where projectiles should spawn. */
+	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+	USceneComponent* FP_MuzzleLocation;
+
 	/** Motion controller (left hand) */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	UMotionControllerComponent* L_MotionController;
@@ -56,6 +56,8 @@ public:
 	AElementalBrawlCharacter();
 
 	void BindMoveset(UMovesetParent* newMoveset);
+
+	USceneComponent* GetMuzzleLocation() { return FP_MuzzleLocation; }
 
 protected:
 	virtual void BeginPlay();
@@ -73,17 +75,13 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Gameplay)
 	FVector GunOffset;
 
-	/** Projectile class to spawn */
-	UPROPERTY(EditDefaultsOnly, Category=Projectile)
-	TSubclassOf<class AElementalBrawlProjectile> ProjectileClass;
-
 	/** Sound to play each time we fire */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Gameplay)
 	USoundBase* FireSound;
 
-	/** Sound to play each time we fire */
+	/** Moveset the player will use */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
-	UMovesetParent* moveset;
+	class UMovesetParent* moveset;
 
 	/** AnimMontage to play each time we fire */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
@@ -95,8 +93,9 @@ public:
 
 protected:
 	
-	/** Fires a projectile. */
+	/** Primary Attack */
 	void OnFire();
+	void OnRelease();
 
 	/** Resets HMD orientation and position in VR. */
 	void OnResetVR();
