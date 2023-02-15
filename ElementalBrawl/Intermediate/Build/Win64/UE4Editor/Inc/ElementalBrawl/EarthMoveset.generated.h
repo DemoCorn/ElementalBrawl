@@ -58,7 +58,12 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UEarthMoveset)
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_EarthMoveset_h_15_PRIVATE_PROPERTY_OFFSET
+#define ElementalBrawl_Source_ElementalBrawl_Public_EarthMoveset_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__Block() { return STRUCT_OFFSET(UEarthMoveset, Block); } \
+	FORCEINLINE static uint32 __PPO__WallKickRange() { return STRUCT_OFFSET(UEarthMoveset, WallKickRange); } \
+	FORCEINLINE static uint32 __PPO__mWallPlacementRange() { return STRUCT_OFFSET(UEarthMoveset, mWallPlacementRange); }
+
+
 #define ElementalBrawl_Source_ElementalBrawl_Public_EarthMoveset_h_12_PROLOG
 #define ElementalBrawl_Source_ElementalBrawl_Public_EarthMoveset_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

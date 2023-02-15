@@ -22,15 +22,21 @@ class AElementalBrawlProjectile : public AActor
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
 	UProjectileMovementComponent* ProjectileMovement;
 
+	UPROPERTY(VisibleDefaultsOnly, Category = SphereComposition)
+	float sphereSize = 5.0f;
 
+	UPROPERTY(VisibleDefaultsOnly, Category = SphereComposition)
+	float shotSpeed = 3000.0f;
 public:
 	AElementalBrawlProjectile();
 
 	float mDamage = 0.0f;
 
+	UProjectileMovementComponent* GetProjectileMovement() { return ProjectileMovement; }
+
 	/** called when projectile hits something */
 	UFUNCTION()
-	void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+	virtual void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
 
 	/** Returns CollisionComp subobject **/
 	USphereComponent* GetCollisionComp() const { return CollisionComp; }

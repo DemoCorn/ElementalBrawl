@@ -76,7 +76,9 @@ public: \
 
 #define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__CollisionComp() { return STRUCT_OFFSET(AElementalBrawlProjectile, CollisionComp); } \
-	FORCEINLINE static uint32 __PPO__ProjectileMovement() { return STRUCT_OFFSET(AElementalBrawlProjectile, ProjectileMovement); }
+	FORCEINLINE static uint32 __PPO__ProjectileMovement() { return STRUCT_OFFSET(AElementalBrawlProjectile, ProjectileMovement); } \
+	FORCEINLINE static uint32 __PPO__sphereSize() { return STRUCT_OFFSET(AElementalBrawlProjectile, sphereSize); } \
+	FORCEINLINE static uint32 __PPO__shotSpeed() { return STRUCT_OFFSET(AElementalBrawlProjectile, shotSpeed); }
 
 
 #define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_12_PROLOG

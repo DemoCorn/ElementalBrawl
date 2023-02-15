@@ -58,7 +58,10 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UWaterMoveset)
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_WaterMoveset_h_12_PRIVATE_PROPERTY_OFFSET
+#define ElementalBrawl_Source_ElementalBrawl_Public_WaterMoveset_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__mCooldownShot() { return STRUCT_OFFSET(UWaterMoveset, mCooldownShot); }
+
+
 #define ElementalBrawl_Source_ElementalBrawl_Public_WaterMoveset_h_9_PROLOG
 #define ElementalBrawl_Source_ElementalBrawl_Public_WaterMoveset_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

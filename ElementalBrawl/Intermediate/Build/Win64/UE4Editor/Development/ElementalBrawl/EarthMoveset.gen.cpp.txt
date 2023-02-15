@@ -16,4 +16,6 @@ D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\W
 D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\MeleeProjectile.h
 D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\MeleeProjectile.generated.h
 D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\MovesetParent.generated.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\EarthWall.h
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\EarthWall.generated.h
 D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\EarthMoveset.generated.h

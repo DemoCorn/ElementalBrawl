@@ -1,12 +1,22 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\ElementalBrawl\ElementalBrawl).
+  Deleted hot-reload file: D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Binaries\Win64\UE4Editor-ElementalBrawl-0388.dll
+  Deleted hot-reload file: D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Binaries\Win64\UE4Editor-ElementalBrawl-0388.pdb
+  Deleted hot-reload file: D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Binaries\Win64\UE4Editor-ElementalBrawl-5758.dll
+  Deleted hot-reload file: D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Binaries\Win64\UE4Editor-ElementalBrawl-5758.pdb
+  Deleted hot-reload file: D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0388.lib
+  Deleted hot-reload file: D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-5758.lib
   Building ElementalBrawlEditor...
   Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 12 processes...
-    [1/4] AirMoveset.cpp
-    [2/4] UE4Editor-ElementalBrawl-0067.lib
-       Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0067.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0067.exp
-    [3/4] UE4Editor-ElementalBrawl-0067.dll
-       Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0067.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl-0067.suppressed.exp
+    [1/4] EarthMoveset.cpp
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\../ElementalBrawlCharacter.h(130): warning C4263: 'void AElementalBrawlCharacter::TakeDamage(float)': member function does not override any base class virtual member function
+D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\Public\../ElementalBrawlCharacter.h(170): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+    C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+    C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h(31): note: see declaration of 'APawn'
+    [2/4] UE4Editor-ElementalBrawl.lib
+       Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl.exp
+    [3/4] UE4Editor-ElementalBrawl.dll
+       Creating library D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl.suppressed.lib and object D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Development\ElementalBrawl\UE4Editor-ElementalBrawl.suppressed.exp
     [4/4] ElementalBrawlEditor.target
-  Total time in Parallel executor: 2.19 seconds
-  Total execution time: 3.36 seconds
+  Total time in Parallel executor: 1.94 seconds
+  Total execution time: 2.76 seconds

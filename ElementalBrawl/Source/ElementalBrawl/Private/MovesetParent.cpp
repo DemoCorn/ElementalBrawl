@@ -95,3 +95,18 @@ void UMovesetParent::BasicAttackRelease()
 {
 	UE_LOG(LogTemp, Log, TEXT("Detected Parent Release"));
 }
+
+void UMovesetParent::DefenceAction()
+{
+	BasicAttack();
+}
+
+void UMovesetParent::MovementAction()
+{
+	BasicAttack();
+}
+
+void UMovesetParent::CooldownAction()
+{
+	BasicAttack();
+}

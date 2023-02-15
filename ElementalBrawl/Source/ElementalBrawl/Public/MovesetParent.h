@@ -29,6 +29,10 @@ public:
 	UMovesetParent();
 
 	void BasicAttackOffCooldown() { mBasicAttackAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mBasicAttackCooldownHandler); }
+	void DefenceOffCooldown() { mDefenceAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mDefenceCooldownHandler); }
+	void MovementOffCooldown() { mMovementAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mMovementCooldownHandler); }
+	void CooldownOffCooldown() { mCooldownAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mCooldownCooldownHandler); }
+
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
@@ -45,9 +49,22 @@ protected:
 
 	bool mBasicAttackAvailable = true;
 	float mBasicAttackCooldown = 0.3f;
+
+	bool mDefenceAvailable = true;
+	float mDefenceCooldown = 0.3f;
+
+	bool mMovementAvailable = true;
+	float mMovementCooldown = 0.3f;
+
+	bool mCooldownAvailable = true;
+	float mCooldownCooldown = 0.3f;
+
 	element mElement;
 
 	FTimerHandle mBasicAttackCooldownHandler;
+	FTimerHandle mDefenceCooldownHandler;
+	FTimerHandle mMovementCooldownHandler;
+	FTimerHandle mCooldownCooldownHandler;
 
 public:	
 	// Called every frame
@@ -55,4 +72,10 @@ public:
 
 	virtual void BasicAttack();
 	virtual void BasicAttackRelease();
+
+	virtual void DefenceAction();
+
+	virtual void MovementAction();
+
+	virtual void CooldownAction();
 };

@@ -11,9 +11,17 @@ class ELEMENTALBRAWL_API UWaterMoveset : public UMovesetParent
 {
 	GENERATED_BODY()
 
+private:
+	UPROPERTY(EditAnywhere, Category = Cooldown)
+	TSubclassOf<class AElementalBrawlProjectile> mCooldownShot;
+
 public:
 	UWaterMoveset();
 
 	virtual void BasicAttack() final;
 	virtual void BasicAttackRelease() final;
+
+	virtual void DefenceAction() final;
+	virtual void MovementAction() final;
+	virtual void CooldownAction() final;
 };

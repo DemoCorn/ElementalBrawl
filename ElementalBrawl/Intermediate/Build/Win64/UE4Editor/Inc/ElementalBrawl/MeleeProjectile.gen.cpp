@@ -116,7 +116,7 @@ void EmptyLinkFunctionForGeneratedCodeMeleeProjectile() {}
 		{ "ToolTip", "called when projectile hits something" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AMeleeProjectile, nullptr, "OnHit", nullptr, nullptr, sizeof(MeleeProjectile_eventOnHit_Parms), Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00C20401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AMeleeProjectile, nullptr, "OnHit", nullptr, nullptr, sizeof(MeleeProjectile_eventOnHit_Parms), Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00C20400, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AMeleeProjectile_OnHit_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_AMeleeProjectile_OnHit()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -182,7 +182,7 @@ void EmptyLinkFunctionForGeneratedCodeMeleeProjectile() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_ElementalBrawl,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AMeleeProjectile_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_AMeleeProjectile_OnHit, "OnHit" }, // 4221545787
+		{ &Z_Construct_UFunction_AMeleeProjectile_OnHit, "OnHit" }, // 2648698136
 		{ &Z_Construct_UFunction_AMeleeProjectile_Tick, "Tick" }, // 797093856
 	};
 #if WITH_METADATA
@@ -231,7 +231,7 @@ void EmptyLinkFunctionForGeneratedCodeMeleeProjectile() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMeleeProjectile, 3072120328);
+	IMPLEMENT_CLASS(AMeleeProjectile, 795667792);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<AMeleeProjectile>()
 	{
 		return AMeleeProjectile::StaticClass();

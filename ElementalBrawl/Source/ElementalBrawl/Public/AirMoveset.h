@@ -10,10 +10,26 @@ UCLASS(ClassGroup = (Moveset), meta = (BlueprintSpawnableComponent))
 class ELEMENTALBRAWL_API UAirMoveset : public UMovesetParent
 {
 	GENERATED_BODY()
+
+private:
+	FTimerHandle mHoverTime;
+	float mHoverSave = 0.0f;
 	
 public:
+	UPROPERTY(EditAnywhere, Category = Defence)
+	TSubclassOf<class AMeleeProjectile> BlockProjectile;
+
+	UPROPERTY(EditAnywhere, Category = Cooldown)
+	TSubclassOf<class AElementalBrawlProjectile> CooldownProjectile;
+
+	void HoverStop();
+
 	UAirMoveset();
 
 	virtual void BasicAttack() final;
 	virtual void BasicAttackRelease() final;
+
+	virtual void DefenceAction() final;
+	virtual void MovementAction() final;
+	virtual void CooldownAction() final;
 };

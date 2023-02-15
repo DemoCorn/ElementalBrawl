@@ -52,6 +52,10 @@ class AElementalBrawlCharacter : public ACharacter
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	UMotionControllerComponent* L_MotionController;
 
+	/** Pawn mesh: 1st person view (arms; seen only by self) */
+	UPROPERTY(VisibleDefaultsOnly, Category = Gameplay)
+	float Health = 100.0f;
+
 public:
 	AElementalBrawlCharacter();
 
@@ -91,11 +95,22 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 	uint8 bUsingMotionControllers : 1;
 
+	bool isFireShield = false;
+
 protected:
 	
 	/** Primary Attack */
 	void OnFire();
 	void OnRelease();
+
+	// Defence Action
+	void OnDefence();
+
+	// Movement Action
+	void OnMove();
+
+	// Cooldown Action
+	void OnCooldown();
 
 	/** Resets HMD orientation and position in VR. */
 	void OnResetVR();
@@ -111,6 +126,8 @@ protected:
 	 * @param Rate	This is a normalized rate, i.e. 1.0 means 100% of desired turn rate
 	 */
 	void TurnAtRate(float Rate);
+
+	void TakeDamage(float dmg);
 
 	/**
 	 * Called via input to turn look up/down at a given rate.

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ElementalBrawl.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{3341ACA8-150B-4C14-8AFB-87DCDCEE8D32}</UniqueIdentifier>
+      <UniqueIdentifier>{DDFCE399-0298-4471-8ED1-FA333D794DC5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ElementalBrawl.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{281D3B8F-4F2B-425D-AE3A-C49815D863BE}</UniqueIdentifier>
+      <UniqueIdentifier>{3AAA7630-90AA-4212-9635-875356D53EA4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ElementalBrawl">
-      <UniqueIdentifier>{25368924-16D0-4E96-9F3A-96AC5FF55C5B}</UniqueIdentifier>
+      <UniqueIdentifier>{BF04B16D-6339-4B3E-8CE3-14FD8330E761}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ElementalBrawl\ElementalBrawl.Build.cs">
       <Filter>Source\ElementalBrawl</Filter>
@@ -66,12 +66,27 @@
       <Filter>Source\ElementalBrawl</Filter>
     </ClInclude>
     <Filter Include="Source\ElementalBrawl\Private">
-      <UniqueIdentifier>{3651C510-72DD-47C0-A595-3D33775F998D}</UniqueIdentifier>
+      <UniqueIdentifier>{ADFB0536-414F-4A1D-9BEB-358F9998E8FA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\AirBlock.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\AirCooldown.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\AirMoveset.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\EarthMoveset.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\EarthWall.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\Explosion.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\FireballProjectile.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\FireMoveset.cpp">
@@ -83,16 +98,34 @@
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\MovesetParent.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\VisualEffect.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\WaterMoveset.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
     <Filter Include="Source\ElementalBrawl\Public">
-      <UniqueIdentifier>{B4A1EA05-3B46-47EA-8976-BC60E5367DDB}</UniqueIdentifier>
+      <UniqueIdentifier>{8E447977-ED2C-4EA1-A979-2B6C476A447A}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\AirBlock.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\AirCooldown.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\AirMoveset.h">
       <Filter>Source\ElementalBrawl\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\EarthMoveset.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\EarthWall.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\Explosion.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\FireballProjectile.h">
       <Filter>Source\ElementalBrawl\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\FireMoveset.h">
@@ -102,6 +135,9 @@
       <Filter>Source\ElementalBrawl\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\MovesetParent.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\VisualEffect.h">
       <Filter>Source\ElementalBrawl\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\WaterMoveset.h">
