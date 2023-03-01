@@ -16,14 +16,44 @@ public:
 	AEarthWall();
 
 	FTimerHandle mActiveTimeHandler;
+	void Launch(FVector placement) 
+	{
+		direction = (placement - GetActorLocation()).GetSafeNormal(); 
+		direction.Z = 0.0f;
+		launched = true;
+	}
 
-	void Deactivate() { SetActorHiddenInGame(true); SetActorEnableCollision(false); GetWorld()->GetTimerManager().ClearTimer(mActiveTimeHandler); }
+	void Deactivate() 
+	{ 
+		SetActorHiddenInGame(true); 
+		SetActorEnableCollision(false); 
+		launched = false;
+		floor = nullptr;
+		GetWorld()->GetTimerManager().ClearTimer(mActiveTimeHandler); 
+	}
+
 	void StartDeactivate(float time) { GetWorld()->GetTimerManager().SetTimer(mActiveTimeHandler, this, &AEarthWall::Deactivate, time, false); }
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	UPROPERTY(EditAnywhere, Category = Movement)
+	float moveSpeed = 100.0f;
+	
+	bool launched = false;
+	FVector direction = {0.0f,0.0f,0.0f};
+
+	AActor* floor = nullptr;
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(VisibleAnywhere)
+	class UBoxComponent* TriggerVolume;
+
+	UFUNCTION()
+	virtual void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+
+	UFUNCTION()
+	void OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
 };

@@ -50,26 +50,27 @@ void UEarthMoveset::BasicAttack()
 		return;
 	}
 
-	// try and fire a projectile
+	// Spawn Projectile
 	if (BasicAttackMelee != nullptr)
 	{
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
+			// Spawn coordinates
 			const FRotator SpawnRotation = mCharecter->GetControlRotation();
-			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 			const FVector SpawnLocation = ((mCharecter->GetMuzzleLocation() != nullptr) ? mCharecter->GetMuzzleLocation()->GetComponentLocation() : mCharecter->GetActorLocation()) + SpawnRotation.RotateVector(mCharecter->GunOffset);
 
-			//Set Spawn Collision Handling Override
+			// Spawn params
 			FActorSpawnParameters ActorSpawnParams;
-			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
 
-			// spawn the projectile at the muzzle
+			// Spawn projectile and set params
 			AMeleeProjectile* projectile = World->SpawnActor<AMeleeProjectile>(BasicAttackMelee, SpawnLocation, SpawnRotation, ActorSpawnParams);
 			projectile->mDamage = 5.0f;
 			projectile->SetLifeSpan(1.0f);
 			projectile->SetCharecter(mCharecter);
 
+			// Cooldown setup
 			mBasicAttackAvailable = false;
 			World->GetTimerManager().SetTimer(mBasicAttackCooldownHandler, this, &UMovesetParent::BasicAttackOffCooldown, mBasicAttackCooldown, false);
 		}
@@ -87,34 +88,36 @@ void UEarthMoveset::DefenceAction()
 		return;
 	}
 
-	if (Block != nullptr)
+	UWorld* const World = GetWorld();
+	if (World != nullptr)
 	{
-		UWorld* const World = GetWorld();
-		if (World != nullptr)
+		// Spawn coordinates
+		const FRotator lookRotation = mCharecter->GetControlRotation();
+		FVector spawnLocation = (lookRotation.Vector() * mWallPlacementRange) + mCharecter->GetTransform().GetLocation();
+
+		// get a line trace from player to the position they're looking at
+		FHitResult lineHit;
+		bool hasLineHit = World->LineTraceSingleByChannel(lineHit, mCharecter->GetTransform().GetLocation(), spawnLocation, ECollisionChannel::ECC_WorldStatic,
+			{"Wall Placement", false, mCharecter});
+
+		// If the line trace fails to hit anything, instead try to find a place to spawn the wall at the max distance
+		if (!hasLineHit)
 		{
-			const FRotator lookRotation = mCharecter->GetControlRotation();
-			FVector spawnLocation = (lookRotation.Vector() * mWallPlacementRange) + mCharecter->GetTransform().GetLocation();
+			spawnLocation.Z = mCharecter->GetTransform().GetLocation().Z;
+			hasLineHit = World->LineTraceSingleByChannel(lineHit, spawnLocation, { spawnLocation.X, spawnLocation.Y, spawnLocation.Z - 1000.0f }, ECollisionChannel::ECC_WorldStatic);
+		}
 
-			FHitResult lineHit;
-			bool hasLineHit = false; //World->LineTraceSingleByChannel(lineHit, mCharecter->GetTransform().GetLocation(), spawnLocation, ECollisionChannel::ECC_WorldStatic);
+		// Spawn the wall from the object pool
+		if (hasLineHit)
+		{
+			FVector wallSpawnLocation = lineHit.Location;
+			wallSpawnLocation.Z += 150 * lineHit.Actor->GetTransform().GetScale3D().Z;
+			const FRotator wallLookRotation = { 0.0f, lookRotation.Yaw, lookRotation.Roll };
 
-			if (!hasLineHit)
-			{
-				spawnLocation.Z = mCharecter->GetTransform().GetLocation().Z;
-				hasLineHit = World->LineTraceSingleByChannel(lineHit, spawnLocation, { spawnLocation.X, spawnLocation.Y, spawnLocation.Z - 1000.0f }, ECollisionChannel::ECC_WorldStatic);
-			}
+			SpawnWall(wallSpawnLocation, wallLookRotation);
 
-			if (hasLineHit)
-			{
-				FVector wallSpawnLocation = lineHit.Location;
-				wallSpawnLocation.Z += 150 * lineHit.Actor->GetTransform().GetScale3D().Z;
-				const FRotator wallLookRotation = { 0.0f, lookRotation.Yaw, lookRotation.Roll };
-
-				SpawnWall(wallSpawnLocation, wallLookRotation);
-
-				mDefenceAvailable = false;
-				World->GetTimerManager().SetTimer(mDefenceCooldownHandler, this, &UMovesetParent::DefenceOffCooldown, mDefenceCooldown, false);
-			}
+			mDefenceAvailable = false;
+			World->GetTimerManager().SetTimer(mDefenceCooldownHandler, this, &UMovesetParent::DefenceOffCooldown, mDefenceCooldown, false);
 		}
 	}
 }
@@ -129,6 +132,8 @@ void UEarthMoveset::MovementAction()
 	float minDistance = std::numeric_limits<float>::max();
 	float currentDistance;
 	int blockIndex = -1;
+
+	// Find the nearest active wall
 	for (int i = 0; i < 5; ++i)
 	{
 		if (BlockPool[i]->IsHidden())
@@ -145,25 +150,50 @@ void UEarthMoveset::MovementAction()
 		}
 	}
 
+	// Launch charecter off the wall
 	if (blockIndex != -1 && minDistance < WallKickRange)
 	{
 		FVector direction = FVector(mCharecter->GetActorLocation().X - BlockPool[blockIndex]->GetActorLocation().X, mCharecter->GetActorLocation().Y - BlockPool[blockIndex]->GetActorLocation().Y, 0.75f);
 		direction.Normalize();
 
-		//float xCheck = direction.X >= 0 ? direction.X : -direction.X;
-		//float yCheck = direction.Y >= 0 ? direction.Y : -direction.Y;
-		//
-		//if (xCheck > yCheck)
-		//{
-		//	direction.X = direction.X >= 0 ? 1.0f : -1.0f;
-		//	direction.Y = 0.0f;
-		//}
-		//else
-		//{
-		//	direction.Y = 0.0f;
-		//	direction.Y = direction.Y >= 0 ? 1.0f : -1.0f;
-		//}
-
 		mCharecter->LaunchCharacter(direction * 1000.0f, true, true);
+	}
+}
+
+void UEarthMoveset::CooldownAction()
+{
+	if (!mCooldownAvailable)
+	{
+		return;
+	}
+
+	UWorld* const World = GetWorld();
+	if (World != nullptr)
+	{
+		const FRotator lookRotation = mCharecter->GetControlRotation();
+		FVector spawnLocation = (lookRotation.Vector() * mWallPlacementRange) + mCharecter->GetTransform().GetLocation();
+
+		FHitResult lineHit;
+		bool hasLineHit = World->LineTraceSingleByChannel(lineHit, mCharecter->GetTransform().GetLocation(), spawnLocation, ECollisionChannel::ECC_WorldStatic,
+			{ "Wall Placement", false, mCharecter });
+
+		if (!hasLineHit)
+		{
+			spawnLocation.Z = mCharecter->GetTransform().GetLocation().Z;
+			hasLineHit = World->LineTraceSingleByChannel(lineHit, spawnLocation, { spawnLocation.X, spawnLocation.Y, spawnLocation.Z - 1000.0f }, ECollisionChannel::ECC_WorldStatic);
+		}
+
+		if (hasLineHit)
+		{
+			for (int i = 0; i < 5; ++i)
+			{
+				if (BlockPool[i]->IsHidden())
+				{
+					continue;
+				}
+
+				BlockPool[i]->Launch(lineHit.Location);
+			}
+		}
 	}
 }

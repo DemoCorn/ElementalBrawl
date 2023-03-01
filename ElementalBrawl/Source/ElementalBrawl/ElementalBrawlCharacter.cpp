@@ -8,6 +8,7 @@
 #include "GameFramework/InputSettings.h"
 #include "HeadMountedDisplayFunctionLibrary.h"
 #include "Kismet/GameplayStatics.h"
+#include <GameFramework/CharacterMovementComponent.h>
 #include "MotionControllerComponent.h"
 #include "Public/FireMoveset.h"
 #include "XRMotionControllerBase.h" // for FXRMotionControllerBase::RightHandSourceId
@@ -105,6 +106,15 @@ void AElementalBrawlCharacter::BeginPlay()
 	{
 		VR_Gun->SetHiddenInGame(true, true);
 		Mesh1P->SetHiddenInGame(false, true);
+	}
+
+	if (moveset->GetElement() == element::air)
+	{
+		GetCharacterMovement()->GravityScale /= 1.5;
+	}
+	else if (moveset->GetElement() == element::earth)
+	{
+		Health *= 2;
 	}
 }
 
@@ -261,4 +271,6 @@ void AElementalBrawlCharacter::TakeDamage(float dmg)
 	}
 
 	Health -= dmg;
+
+	UE_LOG(LogTemp, Log, TEXT("%f damage taken, the charecters current health is %f"), dmg, Health);
 }

@@ -37,4 +37,5 @@ public:
 
 	virtual void DefenceAction() final;
 	virtual void MovementAction() final;
+	virtual void CooldownAction() final;
 };

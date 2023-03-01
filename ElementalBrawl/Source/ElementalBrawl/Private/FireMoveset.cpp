@@ -20,6 +20,7 @@ void UFireMoveset::BasicAttack()
 		return;
 	}
 
+	// Start charge up
 	isCharging = true;
 	mStartTime = std::chrono::steady_clock::now();
 
@@ -32,35 +33,37 @@ void UFireMoveset::BasicAttackRelease()
 	{
 		return;
 	}
+	isCharging = false;
 
-	// try and fire a projectile
+	// Spawn Projectile
 	if (BasicAttackProjectile != nullptr)
 	{
 		auto endTime = std::chrono::steady_clock::now();
 
-		isCharging = false;
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
 			World->GetTimerManager().ClearTimer(mTimeHandler);
 
+			// Calculate damage scaling by the time that has passed
 			std::chrono::duration<float> elapsed = (endTime - mStartTime);
 			UE_LOG(LogTemp, Log, TEXT("Time: %f"), elapsed.count());
 
+			// Spawn coordinates
 			const FRotator SpawnRotation = mCharecter->GetControlRotation();
-			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 			const FVector SpawnLocation = ((mCharecter->GetMuzzleLocation() != nullptr) ? mCharecter->GetMuzzleLocation()->GetComponentLocation() : mCharecter->GetActorLocation()) + SpawnRotation.RotateVector(mCharecter->GunOffset);
 
-			//Set Spawn Collision Handling Override
+			// Spawn params
 			FActorSpawnParameters ActorSpawnParams;
-			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
 
-			// spawn the projectile at the muzzle
+			// Spawn projectile and set params
 			AElementalBrawlProjectile* projectile = World->SpawnActor<AElementalBrawlProjectile>(BasicAttackProjectile, SpawnLocation, SpawnRotation, ActorSpawnParams);
 			projectile->mDamage = 2.0f + (3.0f * elapsed.count()) + damageBoost;
 			damageBoost = 0.0f;
 			projectile->Tags.Add("Projectile");
 
+			// Cooldown setup
 			mBasicAttackAvailable = false;
 			World->GetTimerManager().SetTimer(mBasicAttackCooldownHandler, this, &UMovesetParent::BasicAttackOffCooldown, mBasicAttackCooldown, false);
 		}
@@ -71,7 +74,7 @@ void UFireMoveset::DefenceAction()
 {
 	if (!mDefenceAvailable)
 	{
-		return;
+		mCharecter->TakeDamage(currentDefenceSelfDamage += defenceSelfDamage);
 	}
 
 	if (ShieldSprite != nullptr)
@@ -79,6 +82,7 @@ void UFireMoveset::DefenceAction()
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
+			// Spawn shield sprite
 			AVisualEffect* shield = World->SpawnActor<AVisualEffect>(ShieldSprite);
 			shield->SetParent(mCharecter);
 			shield->SetLifeSpan(1.0f);
@@ -86,15 +90,17 @@ void UFireMoveset::DefenceAction()
 	}
 	mCharecter->isFireShield = true;
 	
+	// Cooldown setup
+	mDefenceAvailable = false;
 	GetWorld()->GetTimerManager().SetTimer(mDefenceTimeHandler, this, &UFireMoveset::StopDefence, 1.0f, false);
-	GetWorld()->GetTimerManager().SetTimer(mDefenceCooldownHandler, this, &UMovesetParent::DefenceOffCooldown, mDefenceCooldown, false);
+	GetWorld()->GetTimerManager().SetTimer(mDefenceCooldownHandler, this, &UFireMoveset::DefenceOffCooldown, mDefenceCooldown, false);
 }
 
 void UFireMoveset::MovementAction()
 {
 	if (!mMovementAvailable)
 	{
-		return;
+		mCharecter->TakeDamage(currentMovementSelfDamage += movementSelfDamage);
 	}
 
 	UWorld* const World = GetWorld();
@@ -103,12 +109,17 @@ void UFireMoveset::MovementAction()
 		UCharacterMovementComponent* move = mCharecter->GetCharacterMovement();
 		if (move == nullptr) { return; }
 
-		mWalkSpeedSave = move->MaxWalkSpeed;
+		// Set speeds
+		if (mWalkSpeedSave <= 0.0f)
+		{
+			mWalkSpeedSave = move->MaxWalkSpeed;
+		}
 		move->MaxWalkSpeed = mMovementBoost;
 
+		// Cooldown setup
 		mMovementAvailable = false;
 		World->GetTimerManager().SetTimer(mDefenceTimeHandler, this, &UFireMoveset::StopMovementAction, 0.5f, false);
-		World->GetTimerManager().SetTimer(mDefenceCooldownHandler, this, &UMovesetParent::MovementOffCooldown, mMovementCooldown, false);
+		World->GetTimerManager().SetTimer(mDefenceCooldownHandler, this, &UFireMoveset::MovementOffCooldown, mMovementCooldown, false);
 	}
 }
 
@@ -129,38 +140,30 @@ void UFireMoveset::CooldownAction()
 {
 	if (!mCooldownAvailable)
 	{
-		return;
+		mCharecter->TakeDamage(currentCooldownSelfDamage += cooldownSelfDamage);
 	}
 
-	// try and fire a projectile
+	// Spawn coordinates
 	if (mFireball != nullptr)
 	{
-		auto endTime = std::chrono::steady_clock::now();
-
-		isCharging = false;
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
-			World->GetTimerManager().ClearTimer(mTimeHandler);
-
-			std::chrono::duration<float> elapsed = (endTime - mStartTime);
-			UE_LOG(LogTemp, Log, TEXT("Time: %f"), elapsed.count());
-
+			// Spawn coordinates
 			const FRotator SpawnRotation = mCharecter->GetControlRotation();
-			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 			const FVector SpawnLocation = ((mCharecter->GetMuzzleLocation() != nullptr) ? mCharecter->GetMuzzleLocation()->GetComponentLocation() : mCharecter->GetActorLocation()) + SpawnRotation.RotateVector(mCharecter->GunOffset);
 
-			//Set Spawn Collision Handling Override
+			// Spawn params
 			FActorSpawnParameters ActorSpawnParams;
-			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
 
-			// spawn the projectile at the muzzle
+			// Spawn projectile and set params
 			AElementalBrawlProjectile* projectile = World->SpawnActor<AElementalBrawlProjectile>(mFireball, SpawnLocation, SpawnRotation, ActorSpawnParams);
 			projectile->mDamage = 0.0f;
 			projectile->Tags.Add("Projectile");
 
-			mCooldownAvailable = false;
-			World->GetTimerManager().SetTimer(mCooldownCooldownHandler, this, &UMovesetParent::CooldownOffCooldown, mCooldownCooldown, false);
+			// Cooldown setup
+			World->GetTimerManager().SetTimer(mCooldownCooldownHandler, this, &UFireMoveset::CooldownOffCooldown, mCooldownCooldown, false);
 		}
 	}
 }

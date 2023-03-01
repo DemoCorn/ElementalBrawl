@@ -8,14 +8,28 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FHitResult;
+struct FVector;
 #ifdef ELEMENTALBRAWL_EarthWall_generated_h
 #error "EarthWall.generated.h already included, missing '#pragma once' in EarthWall.h"
 #endif
 #define ELEMENTALBRAWL_EarthWall_generated_h
 
 #define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_SPARSE_DATA
-#define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_RPC_WRAPPERS
-#define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnOverlapBegin); \
+	DECLARE_FUNCTION(execOnHit);
+
+
+#define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnOverlapBegin); \
+	DECLARE_FUNCTION(execOnHit);
+
+
 #define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAEarthWall(); \
@@ -58,7 +72,10 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AEarthWall)
 
 
-#define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_PRIVATE_PROPERTY_OFFSET
+#define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__moveSpeed() { return STRUCT_OFFSET(AEarthWall, moveSpeed); }
+
+
 #define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_9_PROLOG
 #define ElementalBrawl_Source_ElementalBrawl_Public_EarthWall_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

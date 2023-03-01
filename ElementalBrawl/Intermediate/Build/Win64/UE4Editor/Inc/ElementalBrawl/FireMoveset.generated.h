@@ -60,8 +60,11 @@ public: \
 
 #define ElementalBrawl_Source_ElementalBrawl_Public_FireMoveset_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ShieldSprite() { return STRUCT_OFFSET(UFireMoveset, ShieldSprite); } \
+	FORCEINLINE static uint32 __PPO__defenceSelfDamage() { return STRUCT_OFFSET(UFireMoveset, defenceSelfDamage); } \
 	FORCEINLINE static uint32 __PPO__mFireball() { return STRUCT_OFFSET(UFireMoveset, mFireball); } \
-	FORCEINLINE static uint32 __PPO__mMovementBoost() { return STRUCT_OFFSET(UFireMoveset, mMovementBoost); }
+	FORCEINLINE static uint32 __PPO__cooldownSelfDamage() { return STRUCT_OFFSET(UFireMoveset, cooldownSelfDamage); } \
+	FORCEINLINE static uint32 __PPO__mMovementBoost() { return STRUCT_OFFSET(UFireMoveset, mMovementBoost); } \
+	FORCEINLINE static uint32 __PPO__movementSelfDamage() { return STRUCT_OFFSET(UFireMoveset, movementSelfDamage); }
 
 
 #define ElementalBrawl_Source_ElementalBrawl_Public_FireMoveset_h_12_PROLOG

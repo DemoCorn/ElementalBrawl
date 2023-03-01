@@ -25,19 +25,20 @@ void UWaterMoveset::BasicAttack()
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
+			// Spawn coordinates
 			const FRotator SpawnRotation = mCharecter->GetControlRotation();
-			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 			const FVector SpawnLocation = ((mCharecter->GetMuzzleLocation() != nullptr) ? mCharecter->GetMuzzleLocation()->GetComponentLocation() : mCharecter->GetActorLocation()) + SpawnRotation.RotateVector(mCharecter->GunOffset);
 
-			//Set Spawn Collision Handling Override
+			// Spawn params
 			FActorSpawnParameters ActorSpawnParams;
-			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
 
-			// spawn the projectile at the muzzle
+			// Spawn projectile and set params
 			AElementalBrawlProjectile* projectile = World->SpawnActor<AElementalBrawlProjectile>(BasicAttackProjectile, SpawnLocation, SpawnRotation, ActorSpawnParams);
 			projectile->mDamage = 5.0f;
 			projectile->Tags.Add("Projectile");
 
+			// Cooldown setup
 			mBasicAttackAvailable = false;
 			World->GetTimerManager().SetTimer(mBasicAttackCooldownHandler, this, &UMovesetParent::BasicAttackOffCooldown, mBasicAttackCooldown, false);
 		}
@@ -55,26 +56,27 @@ void UWaterMoveset::DefenceAction()
 		return;
 	}
 
-	// try and fire a projectile
+	// Spawn Projectile
 	if (BasicAttackMelee != nullptr)
 	{
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
+			// Spawn coordinates
 			const FRotator SpawnRotation = mCharecter->GetControlRotation();
-			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 			const FVector SpawnLocation = ((mCharecter->GetMuzzleLocation() != nullptr) ? mCharecter->GetMuzzleLocation()->GetComponentLocation() : mCharecter->GetActorLocation()) + SpawnRotation.RotateVector(mCharecter->GunOffset);
 
-			//Set Spawn Collision Handling Override
+			// Spawn params
 			FActorSpawnParameters ActorSpawnParams;
-			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
 
-			// spawn the projectile at the muzzle
+			// Spawn projectile and set params
 			AMeleeProjectile* projectile = World->SpawnActor<AMeleeProjectile>(BasicAttackMelee, SpawnLocation, SpawnRotation, ActorSpawnParams);
 			projectile->mDamage = 0.0f;
 			projectile->SetLifeSpan(1.0f);
 			projectile->SetCharecter(mCharecter);
 
+			// Cooldown setup
 			mDefenceAvailable = false;
 			World->GetTimerManager().SetTimer(mDefenceCooldownHandler, this, &UMovesetParent::DefenceOffCooldown, mDefenceCooldown, false);
 		}
@@ -91,11 +93,13 @@ void UWaterMoveset::MovementAction()
 	UWorld* const World = GetWorld();
 	if (World != nullptr)
 	{
+		// Launch Charecter
 		FVector facing = mCharecter->GetActorForwardVector();
 		facing.Z += -0.75;
 
 		mCharecter->LaunchCharacter((facing) * -750.0f, false, false);
 
+		// Cooldown setup
 		mMovementAvailable = false;
 		World->GetTimerManager().SetTimer(mMovementCooldownHandler, this, &UMovesetParent::DefenceOffCooldown, mMovementCooldown, false);
 	}
@@ -108,31 +112,31 @@ void UWaterMoveset::CooldownAction()
 		return;
 	}
 
-	// try and fire a projectile
+	// Spawn Projectile
 	if (mCooldownShot != nullptr)
 	{
 		UWorld* const World = GetWorld();
 		if (World != nullptr)
 		{
+			// Spawn coordinates
 			const FRotator SpawnRotation = mCharecter->GetControlRotation();
-			// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
 			const FVector SpawnLocation = ((mCharecter->GetMuzzleLocation() != nullptr) ? mCharecter->GetMuzzleLocation()->GetComponentLocation() : mCharecter->GetActorLocation()) + SpawnRotation.RotateVector(mCharecter->GunOffset);
 
-			//Set Spawn Collision Handling Override
+			// Spawn params
 			FActorSpawnParameters ActorSpawnParams;
-			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
 
-			// spawn the projectile at the muzzle
+			// Spawn projectile and set params
 			AElementalBrawlProjectile* projectile = World->SpawnActor<AElementalBrawlProjectile>(mCooldownShot, SpawnLocation, SpawnRotation, ActorSpawnParams);
 			projectile->mDamage = 5.0f;
 
 			UProjectileMovementComponent* projectileMovement = projectile->GetProjectileMovement();
-				projectileMovement->MaxSpeed = 10000.0f;
-				projectileMovement->Velocity *= 3.0f;
-				projectileMovement->InitialSpeed = 10000.0f;
-
+			projectileMovement->MaxSpeed = 10000.0f;
+			projectileMovement->Velocity *= 3.0f;
+			projectileMovement->InitialSpeed = 10000.0f;
 			projectile->Tags.Add("Projectile");
 
+			// Cooldown setup
 			mCooldownAvailable = false;
 			World->GetTimerManager().SetTimer(mCooldownCooldownHandler, this, &UMovesetParent::CooldownOffCooldown, mCooldownCooldown, false);
 		}

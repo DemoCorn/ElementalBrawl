@@ -103,7 +103,7 @@ void EmptyLinkFunctionForGeneratedCodeAirMoveset() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UAirMoveset, 2656301552);
+	IMPLEMENT_CLASS(UAirMoveset, 3443905448);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<UAirMoveset>()
 	{
 		return UAirMoveset::StaticClass();

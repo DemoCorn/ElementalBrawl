@@ -115,7 +115,7 @@ void EmptyLinkFunctionForGeneratedCodeEarthMoveset() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UEarthMoveset, 97066879);
+	IMPLEMENT_CLASS(UEarthMoveset, 3469605895);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<UEarthMoveset>()
 	{
 		return UEarthMoveset::StaticClass();

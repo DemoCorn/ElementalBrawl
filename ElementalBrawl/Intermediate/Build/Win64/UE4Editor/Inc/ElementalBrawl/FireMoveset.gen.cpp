@@ -39,13 +39,25 @@ void EmptyLinkFunctionForGeneratedCodeFireMoveset() {}
 #endif
 		static const UE4CodeGen_Private::FClassPropertyParams NewProp_ShieldSprite;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_defenceSelfDamage_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_defenceSelfDamage;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_mFireball_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FClassPropertyParams NewProp_mFireball;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_cooldownSelfDamage_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_cooldownSelfDamage;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_mMovementBoost_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_mMovementBoost;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_movementSelfDamage_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_movementSelfDamage;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -70,6 +82,13 @@ void EmptyLinkFunctionForGeneratedCodeFireMoveset() {}
 #endif
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_UFireMoveset_Statics::NewProp_ShieldSprite = { "ShieldSprite", nullptr, (EPropertyFlags)0x0044000000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UFireMoveset, ShieldSprite), Z_Construct_UClass_AVisualEffect_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_UFireMoveset_Statics::NewProp_ShieldSprite_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFireMoveset_Statics::NewProp_ShieldSprite_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFireMoveset_Statics::NewProp_defenceSelfDamage_MetaData[] = {
+		{ "Category", "Defence" },
+		{ "ModuleRelativePath", "Public/FireMoveset.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UFireMoveset_Statics::NewProp_defenceSelfDamage = { "defenceSelfDamage", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UFireMoveset, defenceSelfDamage), METADATA_PARAMS(Z_Construct_UClass_UFireMoveset_Statics::NewProp_defenceSelfDamage_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFireMoveset_Statics::NewProp_defenceSelfDamage_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFireMoveset_Statics::NewProp_mFireball_MetaData[] = {
 		{ "Category", "Cooldown" },
 		{ "ModuleRelativePath", "Public/FireMoveset.h" },
@@ -77,16 +96,33 @@ void EmptyLinkFunctionForGeneratedCodeFireMoveset() {}
 #endif
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_UFireMoveset_Statics::NewProp_mFireball = { "mFireball", nullptr, (EPropertyFlags)0x0044000000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UFireMoveset, mFireball), Z_Construct_UClass_AElementalBrawlProjectile_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_UFireMoveset_Statics::NewProp_mFireball_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFireMoveset_Statics::NewProp_mFireball_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFireMoveset_Statics::NewProp_cooldownSelfDamage_MetaData[] = {
+		{ "Category", "Cooldown" },
+		{ "ModuleRelativePath", "Public/FireMoveset.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UFireMoveset_Statics::NewProp_cooldownSelfDamage = { "cooldownSelfDamage", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UFireMoveset, cooldownSelfDamage), METADATA_PARAMS(Z_Construct_UClass_UFireMoveset_Statics::NewProp_cooldownSelfDamage_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFireMoveset_Statics::NewProp_cooldownSelfDamage_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFireMoveset_Statics::NewProp_mMovementBoost_MetaData[] = {
 		{ "Category", "Movement" },
 		{ "ModuleRelativePath", "Public/FireMoveset.h" },
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UFireMoveset_Statics::NewProp_mMovementBoost = { "mMovementBoost", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UFireMoveset, mMovementBoost), METADATA_PARAMS(Z_Construct_UClass_UFireMoveset_Statics::NewProp_mMovementBoost_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFireMoveset_Statics::NewProp_mMovementBoost_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFireMoveset_Statics::NewProp_movementSelfDamage_MetaData[] = {
+		{ "Category", "Movement" },
+		{ "ModuleRelativePath", "Public/FireMoveset.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UFireMoveset_Statics::NewProp_movementSelfDamage = { "movementSelfDamage", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UFireMoveset, movementSelfDamage), METADATA_PARAMS(Z_Construct_UClass_UFireMoveset_Statics::NewProp_movementSelfDamage_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFireMoveset_Statics::NewProp_movementSelfDamage_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UFireMoveset_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFireMoveset_Statics::NewProp_ShieldSprite,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFireMoveset_Statics::NewProp_defenceSelfDamage,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFireMoveset_Statics::NewProp_mFireball,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFireMoveset_Statics::NewProp_cooldownSelfDamage,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFireMoveset_Statics::NewProp_mMovementBoost,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFireMoveset_Statics::NewProp_movementSelfDamage,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UFireMoveset_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UFireMoveset>::IsAbstract,
@@ -115,7 +151,7 @@ void EmptyLinkFunctionForGeneratedCodeFireMoveset() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UFireMoveset, 2940493608);
+	IMPLEMENT_CLASS(UFireMoveset, 2140909559);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<UFireMoveset>()
 	{
 		return UFireMoveset::StaticClass();

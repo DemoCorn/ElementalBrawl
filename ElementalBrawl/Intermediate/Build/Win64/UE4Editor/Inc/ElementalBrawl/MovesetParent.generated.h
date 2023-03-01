@@ -61,7 +61,11 @@ public: \
 #define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_25_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__BasicAttackProjectile() { return STRUCT_OFFSET(UMovesetParent, BasicAttackProjectile); } \
 	FORCEINLINE static uint32 __PPO__BasicAttackMelee() { return STRUCT_OFFSET(UMovesetParent, BasicAttackMelee); } \
-	FORCEINLINE static uint32 __PPO__isActiveMoveset() { return STRUCT_OFFSET(UMovesetParent, isActiveMoveset); }
+	FORCEINLINE static uint32 __PPO__isActiveMoveset() { return STRUCT_OFFSET(UMovesetParent, isActiveMoveset); } \
+	FORCEINLINE static uint32 __PPO__mBasicAttackCooldown() { return STRUCT_OFFSET(UMovesetParent, mBasicAttackCooldown); } \
+	FORCEINLINE static uint32 __PPO__mDefenceCooldown() { return STRUCT_OFFSET(UMovesetParent, mDefenceCooldown); } \
+	FORCEINLINE static uint32 __PPO__mMovementCooldown() { return STRUCT_OFFSET(UMovesetParent, mMovementCooldown); } \
+	FORCEINLINE static uint32 __PPO__mCooldownCooldown() { return STRUCT_OFFSET(UMovesetParent, mCooldownCooldown); }
 
 
 #define ElementalBrawl_Source_ElementalBrawl_Public_MovesetParent_h_22_PROLOG

@@ -26,6 +26,8 @@ public:
 
 	UAirMoveset();
 
+	virtual void BeginPlay() final;
+
 	virtual void BasicAttack() final;
 	virtual void BasicAttackRelease() final;
 

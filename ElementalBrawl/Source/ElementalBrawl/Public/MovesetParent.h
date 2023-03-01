@@ -28,10 +28,10 @@ public:
 	// Sets default values for this component's properties
 	UMovesetParent();
 
-	void BasicAttackOffCooldown() { mBasicAttackAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mBasicAttackCooldownHandler); }
-	void DefenceOffCooldown() { mDefenceAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mDefenceCooldownHandler); }
-	void MovementOffCooldown() { mMovementAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mMovementCooldownHandler); }
-	void CooldownOffCooldown() { mCooldownAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mCooldownCooldownHandler); }
+	virtual void BasicAttackOffCooldown() { mBasicAttackAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mBasicAttackCooldownHandler); }
+	virtual void DefenceOffCooldown() { mDefenceAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mDefenceCooldownHandler); }
+	virtual void MovementOffCooldown() { mMovementAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mMovementCooldownHandler); }
+	virtual void CooldownOffCooldown() { mCooldownAvailable = true; GetWorld()->GetTimerManager().ClearTimer(mCooldownCooldownHandler); }
 
 protected:
 	// Called when the game starts
@@ -48,15 +48,19 @@ protected:
 	bool isActiveMoveset = true;
 
 	bool mBasicAttackAvailable = true;
+	UPROPERTY(EditAnywhere, Category = Cooldowns)
 	float mBasicAttackCooldown = 0.3f;
 
 	bool mDefenceAvailable = true;
+	UPROPERTY(EditAnywhere, Category = Cooldowns)
 	float mDefenceCooldown = 0.3f;
 
 	bool mMovementAvailable = true;
+	UPROPERTY(EditAnywhere, Category = Cooldowns)
 	float mMovementCooldown = 0.3f;
 
 	bool mCooldownAvailable = true;
+	UPROPERTY(EditAnywhere, Category = Cooldowns)
 	float mCooldownCooldown = 0.3f;
 
 	element mElement;
@@ -69,6 +73,7 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+	element GetElement() { return mElement; }
 
 	virtual void BasicAttack();
 	virtual void BasicAttackRelease();

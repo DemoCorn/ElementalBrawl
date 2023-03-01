@@ -90,7 +90,7 @@ void EmptyLinkFunctionForGeneratedCodeWaterMoveset() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UWaterMoveset, 3098469881);
+	IMPLEMENT_CLASS(UWaterMoveset, 1643676936);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<UWaterMoveset>()
 	{
 		return UWaterMoveset::StaticClass();

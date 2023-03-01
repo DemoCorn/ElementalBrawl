@@ -47,6 +47,22 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 #endif
 		static void NewProp_isActiveMoveset_SetBit(void* Obj);
 		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_isActiveMoveset;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_mBasicAttackCooldown_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_mBasicAttackCooldown;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_mDefenceCooldown_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_mDefenceCooldown;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_mMovementCooldown_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_mMovementCooldown;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_mCooldownCooldown_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_mCooldownCooldown;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -88,10 +104,42 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 		((UMovesetParent*)Obj)->isActiveMoveset = 1;
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset = { "isActiveMoveset", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UMovesetParent), &Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_SetBit, METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMovesetParent_Statics::NewProp_mBasicAttackCooldown_MetaData[] = {
+		{ "Category", "Cooldowns" },
+		{ "ModuleRelativePath", "Public/MovesetParent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_mBasicAttackCooldown = { "mBasicAttackCooldown", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMovesetParent, mBasicAttackCooldown), METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mBasicAttackCooldown_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mBasicAttackCooldown_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMovesetParent_Statics::NewProp_mDefenceCooldown_MetaData[] = {
+		{ "Category", "Cooldowns" },
+		{ "ModuleRelativePath", "Public/MovesetParent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_mDefenceCooldown = { "mDefenceCooldown", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMovesetParent, mDefenceCooldown), METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mDefenceCooldown_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mDefenceCooldown_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMovesetParent_Statics::NewProp_mMovementCooldown_MetaData[] = {
+		{ "Category", "Cooldowns" },
+		{ "ModuleRelativePath", "Public/MovesetParent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_mMovementCooldown = { "mMovementCooldown", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMovesetParent, mMovementCooldown), METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mMovementCooldown_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mMovementCooldown_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMovesetParent_Statics::NewProp_mCooldownCooldown_MetaData[] = {
+		{ "Category", "Cooldowns" },
+		{ "ModuleRelativePath", "Public/MovesetParent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UMovesetParent_Statics::NewProp_mCooldownCooldown = { "mCooldownCooldown", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMovesetParent, mCooldownCooldown), METADATA_PARAMS(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mCooldownCooldown_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMovesetParent_Statics::NewProp_mCooldownCooldown_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UMovesetParent_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackProjectile,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_BasicAttackMelee,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_isActiveMoveset,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_mBasicAttackCooldown,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_mDefenceCooldown,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_mMovementCooldown,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMovesetParent_Statics::NewProp_mCooldownCooldown,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UMovesetParent_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UMovesetParent>::IsAbstract,
@@ -120,7 +168,7 @@ void EmptyLinkFunctionForGeneratedCodeMovesetParent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UMovesetParent, 1413457414);
+	IMPLEMENT_CLASS(UMovesetParent, 3295829989);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<UMovesetParent>()
 	{
 		return UMovesetParent::StaticClass();
