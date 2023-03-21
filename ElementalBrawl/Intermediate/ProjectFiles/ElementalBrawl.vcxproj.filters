@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ElementalBrawl.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DDFCE399-0298-4471-8ED1-FA333D794DC5}</UniqueIdentifier>
+      <UniqueIdentifier>{8DBDC22C-0286-45FC-BE1D-5F7AD4C4C50D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ElementalBrawl.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{3AAA7630-90AA-4212-9635-875356D53EA4}</UniqueIdentifier>
+      <UniqueIdentifier>{25904FA6-0AF9-4BC8-9337-C47266D960FA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ElementalBrawl">
-      <UniqueIdentifier>{BF04B16D-6339-4B3E-8CE3-14FD8330E761}</UniqueIdentifier>
+      <UniqueIdentifier>{17557992-1C38-4998-AB7A-15408D9B4344}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ElementalBrawl\ElementalBrawl.Build.cs">
       <Filter>Source\ElementalBrawl</Filter>
@@ -66,7 +66,7 @@
       <Filter>Source\ElementalBrawl</Filter>
     </ClInclude>
     <Filter Include="Source\ElementalBrawl\Private">
-      <UniqueIdentifier>{ADFB0536-414F-4A1D-9BEB-358F9998E8FA}</UniqueIdentifier>
+      <UniqueIdentifier>{4DDD5BB3-59A7-41E4-8BC1-DA2A36CF8882}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\AirBlock.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
@@ -98,6 +98,9 @@
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\MovesetParent.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ElementalBrawl\Private\ShowTurret.cpp">
+      <Filter>Source\ElementalBrawl\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ElementalBrawl\Private\VisualEffect.cpp">
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
@@ -105,7 +108,7 @@
       <Filter>Source\ElementalBrawl\Private</Filter>
     </ClCompile>
     <Filter Include="Source\ElementalBrawl\Public">
-      <UniqueIdentifier>{8E447977-ED2C-4EA1-A979-2B6C476A447A}</UniqueIdentifier>
+      <UniqueIdentifier>{32F5CC15-15AE-478A-91AE-C6E70B95E78C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\AirBlock.h">
       <Filter>Source\ElementalBrawl\Public</Filter>
@@ -135,6 +138,9 @@
       <Filter>Source\ElementalBrawl\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\MovesetParent.h">
+      <Filter>Source\ElementalBrawl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementalBrawl\Public\ShowTurret.h">
       <Filter>Source\ElementalBrawl\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ElementalBrawl\Public\VisualEffect.h">

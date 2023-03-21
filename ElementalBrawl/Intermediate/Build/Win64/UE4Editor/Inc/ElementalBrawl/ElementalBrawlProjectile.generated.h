@@ -17,18 +17,18 @@ struct FHitResult;
 #endif
 #define ELEMENTALBRAWL_ElementalBrawlProjectile_generated_h
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_SPARSE_DATA
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_RPC_WRAPPERS \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_SPARSE_DATA
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnHit);
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnHit);
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_INCLASS_NO_PURE_DECLS \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAElementalBrawlProjectile(); \
 	friend struct Z_Construct_UClass_AElementalBrawlProjectile_Statics; \
@@ -39,7 +39,7 @@ public: \
 
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_INCLASS \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesAElementalBrawlProjectile(); \
 	friend struct Z_Construct_UClass_AElementalBrawlProjectile_Statics; \
@@ -50,7 +50,7 @@ public: \
 
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_STANDARD_CONSTRUCTORS \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AElementalBrawlProjectile(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AElementalBrawlProjectile) \
@@ -63,7 +63,7 @@ private: \
 public:
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_ENHANCED_CONSTRUCTORS \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AElementalBrawlProjectile(AElementalBrawlProjectile&&); \
@@ -74,34 +74,34 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AElementalBrawlProjectile)
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_PRIVATE_PROPERTY_OFFSET \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__CollisionComp() { return STRUCT_OFFSET(AElementalBrawlProjectile, CollisionComp); } \
 	FORCEINLINE static uint32 __PPO__ProjectileMovement() { return STRUCT_OFFSET(AElementalBrawlProjectile, ProjectileMovement); } \
 	FORCEINLINE static uint32 __PPO__sphereSize() { return STRUCT_OFFSET(AElementalBrawlProjectile, sphereSize); } \
 	FORCEINLINE static uint32 __PPO__shotSpeed() { return STRUCT_OFFSET(AElementalBrawlProjectile, shotSpeed); }
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_12_PROLOG
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_GENERATED_BODY_LEGACY \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_13_PROLOG
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_PRIVATE_PROPERTY_OFFSET \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_SPARSE_DATA \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_RPC_WRAPPERS \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_INCLASS \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_STANDARD_CONSTRUCTORS \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_PRIVATE_PROPERTY_OFFSET \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_SPARSE_DATA \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_RPC_WRAPPERS \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_INCLASS \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_GENERATED_BODY \
+#define ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_PRIVATE_PROPERTY_OFFSET \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_SPARSE_DATA \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_INCLASS_NO_PURE_DECLS \
-	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_15_ENHANCED_CONSTRUCTORS \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_PRIVATE_PROPERTY_OFFSET \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_SPARSE_DATA \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_INCLASS_NO_PURE_DECLS \
+	ElementalBrawl_Source_ElementalBrawl_ElementalBrawlProjectile_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

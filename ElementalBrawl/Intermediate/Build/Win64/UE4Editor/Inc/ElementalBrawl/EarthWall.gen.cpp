@@ -197,10 +197,11 @@ void EmptyLinkFunctionForGeneratedCodeEarthWall() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Collision" },
 		{ "ModuleRelativePath", "Public/EarthWall.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AEarthWall, nullptr, "OnOverlapBegin", nullptr, nullptr, sizeof(EarthWall_eventOnOverlapBegin_Parms), Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00420401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AEarthWall, nullptr, "OnOverlapBegin", nullptr, nullptr, sizeof(EarthWall_eventOnOverlapBegin_Parms), Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04420401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AEarthWall_OnOverlapBegin_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_AEarthWall_OnOverlapBegin()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -226,9 +227,9 @@ void EmptyLinkFunctionForGeneratedCodeEarthWall() {}
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_moveSpeed;
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TriggerVolume_MetaData[];
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TriggerCapsule_MetaData[];
 #endif
-		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_TriggerVolume;
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_TriggerCapsule;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -239,7 +240,7 @@ void EmptyLinkFunctionForGeneratedCodeEarthWall() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AEarthWall_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AEarthWall_OnHit, "OnHit" }, // 1681985255
-		{ &Z_Construct_UFunction_AEarthWall_OnOverlapBegin, "OnOverlapBegin" }, // 3078726151
+		{ &Z_Construct_UFunction_AEarthWall_OnOverlapBegin, "OnOverlapBegin" }, // 1047015622
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEarthWall_Statics::Class_MetaDataParams[] = {
@@ -257,16 +258,16 @@ void EmptyLinkFunctionForGeneratedCodeEarthWall() {}
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AEarthWall_Statics::NewProp_moveSpeed = { "moveSpeed", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEarthWall, moveSpeed), METADATA_PARAMS(Z_Construct_UClass_AEarthWall_Statics::NewProp_moveSpeed_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEarthWall_Statics::NewProp_moveSpeed_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerVolume_MetaData[] = {
-		{ "Category", "EarthWall" },
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerCapsule_MetaData[] = {
+		{ "Category", "Trigger Capsule" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Public/EarthWall.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerVolume = { "TriggerVolume", nullptr, (EPropertyFlags)0x00100000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEarthWall, TriggerVolume), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerVolume_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerVolume_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerCapsule = { "TriggerCapsule", nullptr, (EPropertyFlags)0x00100000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEarthWall, TriggerCapsule), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerCapsule_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerCapsule_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEarthWall_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEarthWall_Statics::NewProp_moveSpeed,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerVolume,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEarthWall_Statics::NewProp_TriggerCapsule,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AEarthWall_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AEarthWall>::IsAbstract,
@@ -295,7 +296,7 @@ void EmptyLinkFunctionForGeneratedCodeEarthWall() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEarthWall, 2502646341);
+	IMPLEMENT_CLASS(AEarthWall, 3694462074);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<AEarthWall>()
 	{
 		return AEarthWall::StaticClass();

@@ -9,13 +9,11 @@ AEarthWall::AEarthWall()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	TriggerVolume = CreateDefaultSubobject<UBoxComponent>(FName("TriggerVolume"));
+	TriggerCapsule = CreateDefaultSubobject<UBoxComponent>(TEXT("TriggerBox"));
+	TriggerCapsule->SetCollisionProfileName(TEXT("Trigger"));
+	RootComponent = TriggerCapsule;
 
-	if (!ensure(TriggerVolume != nullptr)) return;
-
-	RootComponent = TriggerVolume;
-
-	TriggerVolume->OnComponentBeginOverlap.AddDynamic(this, &AEarthWall::OnOverlapBegin);
+	TriggerCapsule->OnComponentBeginOverlap.AddDynamic(this, &AEarthWall::OnOverlapBegin);
 }
 
 // Called when the game starts or when spawned
@@ -55,18 +53,24 @@ void AEarthWall::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimit
 
 void AEarthWall::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	UE_LOG(LogTemp, Log, TEXT("Ran overlap"));
-
-	if (floor == nullptr)
+	if ((OtherActor != nullptr) && (OtherActor != this) && (OtherComp != nullptr))
 	{
-		floor = OtherActor;
-		return;
-	}
+		if (floor == nullptr)
+		{
+			floor = OtherActor;
+			return;
+		}
+		if (OtherActor == floor)
+		{
+			return;
+		}
+		if (OtherActor->Tags.Contains("Projectile"))
+		{
+			return;
+		}
 
-	if (OtherActor == floor)
-	{
-		return;
-	}
+		UE_LOG(LogTemp, Log, TEXT("Projectile Damage: %f"), mDamage);
 
-	Deactivate();
+		Deactivate();
+	}
 }

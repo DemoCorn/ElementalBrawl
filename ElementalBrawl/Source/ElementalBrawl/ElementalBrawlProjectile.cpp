@@ -42,6 +42,22 @@ void AElementalBrawlProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* Othe
 			return;
 		}
 
+		if (isWaterProjectile && mCharecter != nullptr)
+		{
+			if (OtherComp->IsSimulatingPhysics())
+			{
+				FVector CharecterLocation = mCharecter->GetActorLocation();
+				FVector BulletLocation = GetActorLocation();
+
+				FVector VectorToTarget = BulletLocation - CharecterLocation;
+				float DistanceToTarget = VectorToTarget.Size();
+
+				float KnockbackMultiplier = ((3000.0f - DistanceToTarget) / 15.0f >= 0.0f) ? (3000.0f - DistanceToTarget) / 15.0f : 0.0f;
+
+				OtherComp->AddImpulseAtLocation(GetVelocity() * KnockbackMultiplier, GetActorLocation());
+			}
+		}
+
 		UE_LOG(LogTemp, Log, TEXT("Projectile Damage: %f"), mDamage);
 
 		Destroy();

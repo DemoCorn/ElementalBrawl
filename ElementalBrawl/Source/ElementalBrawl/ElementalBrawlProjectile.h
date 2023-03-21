@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "ElementalBrawlCharacter.h"
 #include "ElementalBrawlProjectile.generated.h"
 
 class USphereComponent;
@@ -33,6 +34,9 @@ public:
 	float mDamage = 0.0f;
 
 	UProjectileMovementComponent* GetProjectileMovement() { return ProjectileMovement; }
+
+	bool isWaterProjectile = false;
+	AElementalBrawlCharacter* mCharecter = nullptr;
 
 	/** called when projectile hits something */
 	UFUNCTION()

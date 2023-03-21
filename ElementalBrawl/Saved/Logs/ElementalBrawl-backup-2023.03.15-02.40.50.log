@@ -1,0 +1,2127 @@
+﻿Log file open, 03/14/23 18:29:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ElementalBrawl
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304681
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: FOculusHMDModule PreInit successfully
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername="Demon Unicorn" -epicuserid=c77912c0e02143e3b85aa85cb473376f -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.03.15-01.29.06:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.15-01.29.06:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.03.15-01.29.06:025][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.03.15-01.29.06:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.15-01.29.06:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.15-01.29.06:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.15-01.29.06:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.15-01.29.06:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.15-01.29.06:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.15-01.29.06:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.15-01.29.06:049][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.15-01.29.06:050][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.15-01.29.06:050][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.15-01.29.06:050][  0]LogHAL: Display: Platform has ~ 64 GB [68625903616 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.15-01.29.06:050][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.15-01.29.06:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Scalability.ini]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.15-01.29.06:051][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.15-01.29.06:052][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.15-01.29.06:052][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.15-01.29.06:052][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.15-01.29.06:052][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Engine.ini]
+[2023.03.15-01.29.06:052][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Config/Windows/Editor.ini]
+[2023.03.15-01.29.06:052][  0]LogInit: Computer: DESKTOP-2TM97B3
+[2023.03.15-01.29.06:052][  0]LogInit: User: orion
+[2023.03.15-01.29.06:052][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.15-01.29.06:052][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.15-01.29.06:052][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2023.03.15-01.29.06:052][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.15-01.29.06:052][  0]LogMemory: Process Physical Memory: 154.05 MB used, 156.78 MB peak
+[2023.03.15-01.29.06:052][  0]LogMemory: Process Virtual Memory: 129.90 MB used, 129.90 MB peak
+[2023.03.15-01.29.06:052][  0]LogMemory: Physical Memory: 24999.89 MB used,  40446.87 MB free, 65446.76 MB total
+[2023.03.15-01.29.06:052][  0]LogMemory: Virtual Memory: 134197000.00 MB used,  20725.57 MB free, 134217728.00 MB total
+[2023.03.15-01.29.06:058][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.15-01.29.06:115][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.15-01.29.06:116][  0]LogInit: Using OS detected language (en-US).
+[2023.03.15-01.29.06:116][  0]LogInit: Using OS detected locale (en-CA).
+[2023.03.15-01.29.06:127][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.03.15-01.29.06:415][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.15-01.29.06:444][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.15-01.29.06:474][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.15-01.29.06:474][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.15-01.29.06:717][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.15-01.29.06:717][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.15-01.29.06:717][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.15-01.29.06:717][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.15-01.29.06:890][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2023.03.15-01.29.06:890][  0]LogD3D11RHI:       7988/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:       0/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     SubSysId    : 85aa1043
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     DedicatedVideoMemory : 8376025088 bytes
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     SharedSystemMemory : 34312951808 bytes
+[2023.03.15-01.29.06:893][  0]LogD3D11RHI:     AdapterLuid : 0 72914
+[2023.03.15-01.29.06:906][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.15-01.29.06:906][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.15-01.29.06:906][  0]LogWindows: EnumDisplayDevices:
+[2023.03.15-01.29.06:906][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2023.03.15-01.29.06:907][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2023.03.15-01.29.06:907][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.03.15-01.29.06:908][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.03.15-01.29.06:908][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.03.15-01.29.06:908][  0]LogRHI: Texture pool is 5591 MB (70% of 7988 MB)
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     SubSysId    : 85aa1043
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     DedicatedVideoMemory : 8376025088 bytes
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     SharedSystemMemory : 34312951808 bytes
+[2023.03.15-01.29.06:908][  0]LogD3D11RHI:     AdapterLuid : 0 72914
+[2023.03.15-01.29.07:004][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.15-01.29.07:004][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.15-01.29.07:004][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.15-01.29.07:035][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.03.15-01.29.07:072][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.15-01.29.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.15-01.29.07:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.15-01.29.07:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.15-01.29.07:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.15-01.29.07:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.15-01.29.07:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.15-01.29.07:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.15-01.29.07:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.15-01.29.07:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.15-01.29.07:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.15-01.29.07:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.15-01.29.07:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.15-01.29.07:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.15-01.29.07:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.15-01.29.07:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.15-01.29.07:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.15-01.29.07:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.15-01.29.07:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.15-01.29.07:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.15-01.29.07:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.15-01.29.07:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.15-01.29.07:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.15-01.29.07:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.15-01.29.07:800][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.15-01.29.07:811][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.15-01.29.07:859][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.15-01.29.07:900][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.15-01.29.07:900][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Intermediate/Shaders/WorkingDirectory/45580/).
+[2023.03.15-01.29.07:900][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/orion/AppData/Local/Temp/UnrealShaderWorkingDir/8713A5304B9CBAE97BC100AE09BADA29/'.
+[2023.03.15-01.29.07:900][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.15-01.29.07:901][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.15-01.29.07:901][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.15-01.29.08:786][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.15-01.29.08:870][  0]LogDerivedDataCache: Loaded boot cache 0.08s 99MB C:/Users/orion/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.15-01.29.08:870][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/orion/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.15-01.29.08:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.15-01.29.08:870][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.15-01.29.08:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.15-01.29.08:870][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.15-01.29.08:888][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.15-01.29.08:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.15-01.29.08:888][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.15-01.29.08:902][  0]LogDerivedDataCache: Speed tests for C:/Users/orion/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.15-01.29.08:902][  0]LogDerivedDataCache: Display: Performance to C:/Users/orion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=202.29MBs, RandomWriteSpeed=108.58MBs. Assigned SpeedClass 'Local'
+[2023.03.15-01.29.08:903][  0]LogDerivedDataCache: Using Local data cache path C:/Users/orion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.15-01.29.08:903][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.15-01.29.08:903][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.15-01.29.08:957][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.15-01.29.08:958][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.15-01.29.08:989][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2023.03.15-01.29.09:276][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.15-01.29.09:276][  0]LogInit: Active device profile: [000002785C4F2600][0000027855D5E400 49] Windows
+[2023.03.15-01.29.09:276][  0]LogInit: Profiles: [000002785C4F2600][0000027855D5E400 49] Windows, [000002785D8AC200][00000278551C4580 49] WindowsNoEditor, [000002785C4F2E00][00000278551C8700 49] WindowsServer, [000002785D8AEA00][0000027855D62840 49] WindowsClient, [000002785C4F2F00][00000278551CC980 49] IOS, [000002785D8ACF00][00000278551D0AC0 49] iPadAir, [000002785C4F3100][00000278551D8C40 49] iPadAir2, [000002785D862000][000002785D412F00 49] IPadPro, [000002785D862100][00000278551DCF40 49] iPadAir3, [000002785C4F1000][000002785D4170C0 49] iPadAir4, [000002785D862200][000002785D41B240 49] iPadMini2, [000002785C4F3C00][000002785D41F3C0 49] iPadMini3, [000002785D861D00][000002785D423540 49] iPadMini4, [000002785C4F3400][000002785D4276C0 49] iPadMini5, [000002785D8A9900][000002785D42F980 49] iPhone6, [000002785D8A9A00][000002785D42B9C0 49] iPodTouch6, [000002785D861900][000002785D436100 49] iPhone7, [000002785D861500][000002785D432140 49] iPodTouch7, [000002785D8A9E00][000002785D43A2C0 49] iPhone5S, [000002785D861700][000002785D43E440 49] iPhone6Plus, [000002785D8AA100][000002785D4425C0 49] iPhone6S, [000002785D862E00][000002785D446740 49] iPhone6SPlus, [000002785D8ABD00][000002785D44A8C0 49] iPhone7Plus, [000002785D862300][00000278551D4A00 49] iPhoneSE, [000002785D8ABA00][000002785D44EB40 49] iPhone8, [000002785D862400][000002785D452C80 49] iPhone8Plus, [000002785D8A8400][000002785D456DC0 49] iPhoneX, [000002785D863000][000002785D45EF40 49] iPhoneXS, [000002785D8AA900][000002785D4630C0 49] iPhoneXSMax, [000002785D860500][000002785D467240 49] iPhoneXR, [000002785D8A9200][000002785D46B3C0 49] iPhone11, [000002785D861100][000002785D46F540 49] iPhone11Pro, [000002785D8A8E00][000002785D4736C0 49] iPhone11ProMax, [000002785D862500][000002785D477840 49] iPhoneSE2, [000002785D8A9400][000002785D47B9C0 49] iPhone12Mini, [000002785D861A00][000002785D47FB40 49] iPhone12, [000002785D8A9300][000002785D482140 49] iPhone12Pro, [000002785D860900][000002785D4862C0 49] iPhone12ProMax, [000002785D8ABE00][000002785D48A440 49] iPadPro105, [000002785D860300][000002785D48E5C0 49] iPadPro129, [000002785D8A8600][000002785D492740 49] iPadPro97, [000002785D863400][000002785D4968C0 49] iPadPro2_129, [000002785D8ABF00][000002785D49AA40 49] iPad5, [000002785D861300][000002785D45AB80 49] iPad6, [000002785D8ABC00][000002785D49ECC0 49] iPad7, [000002785D861800][000002785D4A2E00 49] iPad8, [000002785C530300][000002785D4A6F40 49] iPadPro11, [000002785D8AD900][000002785E4C10C0 49] iPadPro2_11, [000002785C530A00][000002785E4C5240 49] iPadPro3_129, [000002785D8AF100][000002785E4C93C0 49] iPadPro4_129, [000002785C531600][000002785E4CD540 49] AppleTV, [000002785D8AE800][000002785E4D16C0 49] AppleTV4K, [000002785C530900][000002785E4D5840 49] TVOS, [000002785D8AB500][000002785E4D99C0 49] Mac, [000002785D863D00][000002785E4DDB40 49] MacClient, [000002785D8AB200][000002785E4E0140 49] MacNoEditor, [000002785D860800][000002785E4E42C0 49] MacServer, [000002785D8A8300][0000027856A0C440 49] Linux, [000002785D863300][0000027856A105C0 49] LinuxAArch64, [000002785D8A8B00][0000027856912740 49] LinuxNoEditor, [000002785D863F00][000002785691A8C0 49] LinuxAArch64NoEditor, [000002785D8AA600][000002785691EA40 49] LinuxClient, [000002785D862A00][0000027856922BC0 49] LinuxAArch64Client, [000002785D8AB000][0000027856926D40 49] LinuxServer, [000002785D861600][000002785D4AAE80 49] LinuxAArch64Server, [000002785D8A9D00][000002785692AFC0 49] Android, [000002785D862800][0000027856A15100 49] Android_Low, [000002785D8ABB00][0000027856A1D280 49] Android_Mid, [000002785D860600][0000027856A21400 49] Android_High, [000002785D8A8D00][0000027856A25580 49] Android_Default, [000002785D863A00][0000027856A29700 49] Android_Adreno4xx, [000002785D8AB800][0000027856A2D880 49] Android_Adreno5xx_Low, [000002785D860B00][0000027856A31A00 49] Android_Adreno5xx, [000002785D8A8100][0000027856A35B80 49] Android_Adreno6xx, [000002785D862900][0000027856A38180 49] Android_Adreno6xx_Vulkan, [000002785C531200][0000027856A3C300 49] Android_Mali_T6xx, [000002785D860C00][0000027856A40480 49] Android_Mali_T7xx, [000002785C530400][0000027856A44600 49] Android_Mali_T8xx, [000002785D861B00][0000027856A48780 49] Android_Mali_G71, [000002785D8AAF00][0000027856A4C900 49] Android_Mali_G72, [000002785D861200][0000027856A50A80 49] Android_Mali_G72_Vulkan, [000002785D8AB900][0000027856A54C00 49] Android_Mali_G76, [000002785D863100][0000027856A58D80 49] Android_Mali_G76_Vulkan, [000002785D8AB400][0000027856A5CF00 49] Android_Mali_G77, [000002785D861400][0000027856A19040 49] Android_Mali_G77_Vulkan, [000002785D8AA500][0000027856A61180 49] Android_Mali_G78, [000002785D862C00][0000027856A652C0 49] Android_Mali_G78_Vulkan, [000002785D8A8200][0000027856A6D440 49] Android_Mali_G710, [000002785D863800][0000027856A715C0 49] Android_Mali_G710_Vulkan, [000002785D8A9100][0000027856A75740 49] Android_Vulkan_SM5, [000002785D863B00][0000027856A798C0 49] Android_PowerVR_G6xxx, [000002785D8AAB00][0000027856A7DA40 49] Android_PowerVR_GT7xxx, [000002785D861000][0000027856A81BC0 49] Android_PowerVR_GE8xxx, [000002785D8AB100][0000027856A841C0 49] Android_PowerVR_GM9xxx, [000002785D860700][00000278565E4340 49] Android_PowerVR_GM9xxx_Vulkan, [000002785D8AA800][00000278565E84C0 49] Android_TegraK1, [000002785D8AD600][00000278565EC640 49] Android_Unknown_Vulkan, [000002785D8AAE00][00000278565F07C0 49] Lumin, [000002785C4F3D00][00000278565F4940 49] Lumin_Desktop, [000002785D862B00][00000278565F8AC0 49] HoloLens, 
+[2023.03.15-01.29.09:433][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.15-01.29.09:433][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.15-01.29.09:433][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.15-01.29.09:433][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.15-01.29.09:433][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.15-01.29.09:459][  0]LogNetVersion: ElementalBrawl 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2805587885)
+[2023.03.15-01.29.09:963][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.15-01.29.10:036][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.15-01.29.10:045][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.15-01.29.10:045][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.15-01.29.10:045][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.15-01.29.10:243][  0]LogPython: Using Python 3.7.7
+[2023.03.15-01.29.10:920][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.15-01.29.10:926][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.15-01.29.11:084][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E19A4EA742778713D0C220843DF63877 | Instance: 1A5C02084EAB305806526E87ECAF23A2 (DESKTOP-2TM97B3-45580).
+[2023.03.15-01.29.12:578][  0]SourceControl: Source control is disabled
+[2023.03.15-01.29.12:578][  0]SourceControl: Source control is disabled
+[2023.03.15-01.29.12:582][  0]SourceControl: Source control is disabled
+[2023.03.15-01.29.12:588][  0]SourceControl: Source control is disabled
+[2023.03.15-01.29.12:592][  0]SourceControl: Source control is disabled
+[2023.03.15-01.29.12:605][  0]LogUProjectInfo: Found projects:
+[2023.03.15-01.29.12:639][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.15-01.29.12:791][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.15-01.29.12:812][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.15-01.29.12:812][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.15-01.29.12:970][  0]LogCollectionManager: Loaded 0 collections in 0.001741 seconds
+[2023.03.15-01.29.13:003][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/Collections/' took 0.00s
+[2023.03.15-01.29.13:003][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/Developers/orion/Collections/' took 0.00s
+[2023.03.15-01.29.13:003][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/Collections/' took 0.00s
+[2023.03.15-01.29.13:003][  0]LogOcInput: OculusInput pre-init called
+[2023.03.15-01.29.13:273][  0]LogEngine: Initializing Engine...
+[2023.03.15-01.29.13:273][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.15-01.29.13:273][  0]LogHMD: Initializing OVRPlugin session
+[2023.03.15-01.29.13:714][  0]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.15-01.29.13:714][  0]LogHMD: Oculus plugin initialized. Version: 4.27.2-18319896+++UE4+Release-4.27, OVRPlugin: 1.59.0
+[2023.03.15-01.29.13:716][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.03.15-01.29.13:881][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.15-01.29.13:889][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.15-01.29.13:896][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.15-01.29.13:900][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.15-01.29.13:900][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.15-01.29.13:901][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.15-01.29.13:901][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-01.29.13:901][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-01.29.13:901][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-01.29.13:901][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-01.29.13:901][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-01.29.13:901][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-01.29.13:932][  0]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-01.29.13:957][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-01.29.13:958][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-01.29.13:961][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-01.29.13:962][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-01.29.13:963][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-01.29.13:963][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-01.29.13:963][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-01.29.13:964][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-01.29.13:964][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-01.29.13:964][  0]LogInit: FAudioDevice initialized.
+[2023.03.15-01.29.13:964][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.15-01.29.13:964][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.15-01.29.14:045][  0]LogDerivedDataCache: Saved boot cache 0.08s 99MB C:/Users/orion/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.15-01.29.14:046][  0]LogInit: Texture streaming: Enabled
+[2023.03.15-01.29.14:059][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.15-01.29.14:064][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.15-01.29.14:064][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.15-01.29.14:067][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.15-01.29.14:103][  0]LogInit: Transaction tracking system initialized
+[2023.03.15-01.29.14:130][  0]BlueprintLog: New page: Editor Load
+[2023.03.15-01.29.14:210][  0]LocalizationService: Localization service is disabled
+[2023.03.15-01.29.14:243][  0]TimingProfiler: Initialize
+[2023.03.15-01.29.14:243][  0]TimingProfiler: OnSessionChanged
+[2023.03.15-01.29.14:243][  0]LoadingProfiler: Initialize
+[2023.03.15-01.29.14:243][  0]LoadingProfiler: OnSessionChanged
+[2023.03.15-01.29.14:243][  0]NetworkingProfiler: Initialize
+[2023.03.15-01.29.14:243][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.15-01.29.14:243][  0]MemoryProfiler: Initialize
+[2023.03.15-01.29.14:243][  0]MemoryProfiler: OnSessionChanged
+[2023.03.15-01.29.14:452][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.15-01.29.14:452][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.15-01.29.14:673][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/' took 0.01s
+[2023.03.15-01.29.14:906][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.15-01.29.14:910][  0]SourceControl: Source control is disabled
+[2023.03.15-01.29.14:910][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.971
+[2023.03.15-01.29.14:910][  0]Cmd: MAP LOAD FILE="D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.15-01.29.14:910][  0]LightingResults: New page: Lighting Build
+[2023.03.15-01.29.14:912][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-01.29.14:912][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.29.14:912][  0]MapCheck: New page: Map Check
+[2023.03.15-01.29.14:912][  0]LightingResults: New page: Lighting Build
+[2023.03.15-01.29.14:918][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-01.29.14:921][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.03.15-01.29.15:425][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-01.29.15:426][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-01.29.15:435][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.15-01.29.15:461][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.03.15-01.29.15:462][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.15-01.29.15:462][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2023.03.15-01.29.15:462][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.552
+[2023.03.15-01.29.15:465][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.526
+[2023.03.15-01.29.15:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.29.15:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.29.15:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.29.15:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.29.15:681][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 3838 classes and 931 folders.
+[2023.03.15-01.29.15:685][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.15-01.29.15:696][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.15-01.29.15:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.15-01.29.15:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.15-01.29.15:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.03.15-01.29.15:706][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.15-01.29.15:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.15-01.29.15:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.15-01.29.15:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.03.15-01.29.15:713][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.15-01.29.15:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.15-01.29.15:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.15-01.29.15:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.03.15-01.29.15:720][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.15-01.29.15:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.15-01.29.15:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.15-01.29.15:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.03.15-01.29.15:729][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.15-01.29.15:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.15-01.29.15:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.15-01.29.15:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.03.15-01.29.15:737][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.15-01.29.15:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.15-01.29.15:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.15-01.29.15:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.03.15-01.29.15:744][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.15-01.29.15:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.15-01.29.15:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.15-01.29.15:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2023.03.15-01.29.15:753][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.15-01.29.15:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.15-01.29.15:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.15-01.29.15:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.03.15-01.29.15:760][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.15-01.29.15:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.15-01.29.15:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.15-01.29.15:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.03.15-01.29.15:769][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.15-01.29.15:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.15-01.29.15:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.15-01.29.15:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.03.15-01.29.15:775][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.15-01.29.15:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.15-01.29.15:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.15-01.29.15:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.03.15-01.29.15:784][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.15-01.29.15:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.15-01.29.15:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.15-01.29.15:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.03.15-01.29.15:791][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.15-01.29.15:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.15-01.29.15:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.15-01.29.15:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.03.15-01.29.15:799][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.15-01.29.15:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.15-01.29.15:799][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:799][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.15-01.29.15:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.03.15-01.29.15:806][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.15-01.29.15:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.15-01.29.15:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.15-01.29.15:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.03.15-01.29.15:813][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.15-01.29.15:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.15-01.29.15:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.15-01.29.15:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.03.15-01.29.15:820][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.15-01.29.15:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.15-01.29.15:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.15-01.29.15:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.03.15-01.29.15:828][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.15-01.29.15:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.15-01.29.15:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.15-01.29.15:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.03.15-01.29.15:836][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.15-01.29.15:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.15-01.29.15:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.15-01.29.15:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.03.15-01.29.15:846][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.15-01.29.15:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.15-01.29.15:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.15-01.29.15:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.03.15-01.29.15:853][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.15-01.29.15:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.15-01.29.15:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.15-01.29.15:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.03.15-01.29.15:861][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.15-01.29.15:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.15-01.29.15:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.15-01.29.15:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.03.15-01.29.15:869][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.15-01.29.15:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.15-01.29.15:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.15-01.29.15:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2023.03.15-01.29.15:878][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.15-01.29.15:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.15-01.29.15:878][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:878][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.15-01.29.15:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.03.15-01.29.15:885][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.15-01.29.15:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.15-01.29.15:885][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:885][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.15-01.29.15:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.03.15-01.29.15:891][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.15-01.29.15:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.15-01.29.15:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.15-01.29.15:891][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.15-01.29.15:891][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.15-01.29.15:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.03.15-01.29.16:154][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.15-01.29.16:159][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.03.15-01.29.16:292][  0]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.15-01.29.16:301][  0]LogSlate: Took 0.006835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.15-01.29.16:302][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.15-01.29.16:314][  0]LogSlate: Took 0.008519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.15-01.29.16:548][  0]LogRenderer: Reallocating scene render targets to support 1212x572 Format 10 NumSamples 1 (Frame:1).
+[2023.03.15-01.29.16:692][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.03.15-01.29.16:692][  0]LogLoad: (Engine Initialization) Total time: 12.75 seconds
+[2023.03.15-01.29.16:692][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.15-01.29.16:708][  0]LogOcInput: OculusInput is initialized
+[2023.03.15-01.29.16:749][  0]LogAssetRegistry: Asset discovery search completed in 7.7605 seconds
+[2023.03.15-01.29.16:756][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.03.15-01.29.16:758][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.15-01.39.32:111][671]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2023.03.15-01.39.39:723][491]LogSlate: Took 0.005770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.15-01.39.51:669][762]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.15-01.39.51:675][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-01.39.51:676][762]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2023, 11:39:51 a.m.)
+[2023.03.15-01.39.51:677][762]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.15-01.39.51:678][762]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.15-01.39.51:678][762]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.39.51:696][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017266s)
+[2023.03.15-01.39.51:697][762]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-01.39.51:697][762]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2023.03.15-01.39.51:697][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018637s)
+[2023.03.15-01.39.51:705][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.03.15-01.39.51:708][762]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.15-01.39.51:708][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-01.39.51:708][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-01.39.51:708][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-01.39.51:708][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-01.39.51:708][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-01.39.51:708][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-01.39.51:708][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-01.39.51:708][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-01.39.51:709][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-01.39.51:709][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-01.39.51:709][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-01.39.51:709][762]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-01.39.51:719][762]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-01.39.51:735][762]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-01.39.51:735][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-01.39.51:735][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-01.39.51:735][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-01.39.51:736][762]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-01.39.51:736][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-01.39.51:736][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-01.39.51:737][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-01.39.51:737][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-01.39.51:737][762]LogInit: FAudioDevice initialized.
+[2023.03.15-01.39.51:737][762]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-01.39.51:748][762]LogLoad: Game class is 'ElementalBrawlGameMode'
+[2023.03.15-01.39.51:751][762]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.03.14-18.39.51
+[2023.03.15-01.39.51:751][762]LogWorld: Bringing up level for play took: 0.001957
+[2023.03.15-01.39.51:751][762]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2023.03.15-01.39.51:756][762]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.03.15-01.39.51:756][762]LogTemp: Moveset Attached
+[2023.03.15-01.39.51:758][762]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.03.15-01.39.52:189][762]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.432 s
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: === Handled ensure: ===
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: 
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: Ensure condition failed: Component->HasBegunPlay() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Actor.cpp] [Line: 3557]
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: Failed to route BeginPlay (EarthMoveset /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.EarthMoveset)
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: Stack: 
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: [Callstack] 0x00007ff965b8ff01 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: [Callstack] 0x00007ff9641473c4 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.15-01.39.52:189][762]LogOutputDevice: Error: [Callstack] 0x00007ff9134b0c0f UE4Editor-ElementalBrawl-9624.dll!AElementalBrawlCharacter::BeginPlay() [D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Source\ElementalBrawl\ElementalBrawlCharacter.cpp:97]
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff964150c1f UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff96555ba95 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff96489ca31 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff9654ffb3e UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff9648beb09 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff962f62c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff962f8622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff962f6397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff962fa3772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff962fa6d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff962fa65f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff962a00c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff963302ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff7e26987a0 UE4Editor.exe!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff7e26b0fcc UE4Editor.exe!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff7e26b10ba UE4Editor.exe!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff7e26b40dd UE4Editor.exe!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff7e26c5984 UE4Editor.exe!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ff7e26c853a UE4Editor.exe!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ffa6f287614 KERNEL32.DLL!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: [Callstack] 0x00007ffa705026a1 ntdll.dll!UnknownFunction []
+[2023.03.15-01.39.52:190][762]LogOutputDevice: Error: 
+[2023.03.15-01.39.52:226][762]LogStats:                SubmitErrorReport -  0.000 s
+[2023.03.15-01.39.54:038][762]LogStats:                    SendNewReport -  1.811 s
+[2023.03.15-01.39.54:038][762]LogStats:             FDebug::EnsureFailed -  2.280 s
+[2023.03.15-01.39.54:038][762]PIE: Server logged in
+[2023.03.15-01.39.54:040][762]PIE: Play in editor total start time 2.366 seconds.
+[2023.03.15-01.39.54:070][762]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.15-01.39.54:070][762]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-01.39.54:080][762]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-01.39.54:115][762]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-01.39.54:138][762]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-01.40.16:801][271]LogSlate: Took 0.005557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.15-01.40.50:969][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.40.50:969][830]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.40.50:969][830]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-01.40.50:970][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.40.50:979][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-01.40.51:079][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.40.51:084][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-01.40.51:084][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.40.51:085][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.40.51:089][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.40.51:091][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.15-01.40.51:128][831]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.03.15-01.40.52:069][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.03.15-01.41.03:189][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2023.03.15-01.41.04:114][246]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2023.03.15-01.41.19:657][819]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.15-01.41.19:663][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-01.41.19:663][819]LogHMD: Initializing OVRPlugin session
+[2023.03.15-01.41.19:931][819]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.15-01.41.19:933][819]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2023, 11:41:19 a.m.)
+[2023.03.15-01.41.19:933][819]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.41.19:943][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011493s)
+[2023.03.15-01.41.19:944][819]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-01.41.19:945][819]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2023.03.15-01.41.19:945][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012780s)
+[2023.03.15-01.41.19:976][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.15-01.41.19:979][819]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-01.41.19:979][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-01.41.19:979][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-01.41.19:979][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-01.41.19:979][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-01.41.19:979][819]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-01.41.19:987][819]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-01.41.20:001][819]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-01.41.20:002][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-01.41.20:002][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-01.41.20:002][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-01.41.20:002][819]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-01.41.20:002][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-01.41.20:002][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-01.41.20:004][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-01.41.20:004][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-01.41.20:004][819]LogInit: FAudioDevice initialized.
+[2023.03.15-01.41.20:004][819]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-01.41.20:016][819]LogLoad: Game class is 'ElementalBrawlGameMode'
+[2023.03.15-01.41.20:018][819]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.03.14-18.41.20
+[2023.03.15-01.41.20:018][819]LogWorld: Bringing up level for play took: 0.001720
+[2023.03.15-01.41.20:019][819]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.15-01.41.20:020][819]LogTemp: Moveset Attached
+[2023.03.15-01.41.20:022][819]PIE: Server logged in
+[2023.03.15-01.41.20:023][819]PIE: Play in editor total start time 0.362 seconds.
+[2023.03.15-01.41.20:050][819]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.15-01.41.21:508][991]LogTemp: Warning: Overlap Happened
+[2023.03.15-01.41.23:646][247]LogTemp: Warning: Overlap Happened
+[2023.03.15-01.41.25:489][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.41.25:489][464]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.41.25:489][464]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-01.41.25:490][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.41.25:499][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-01.41.25:595][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.41.25:605][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-01.41.25:605][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.41.25:607][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.41.25:610][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.41.25:612][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.15-01.41.25:643][465]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.03.15-01.41.30:148][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.03.15-01.41.50:957][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.03.15-01.41.56:075][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.03.15-01.42.01:637][474]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.15-01.42.01:643][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-01.42.01:643][474]LogHMD: Initializing OVRPlugin session
+[2023.03.15-01.42.01:925][474]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.15-01.42.01:925][474]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2023, 11:42:01 a.m.)
+[2023.03.15-01.42.01:956][474]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.42.01:969][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012427s)
+[2023.03.15-01.42.01:970][474]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-01.42.01:971][474]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2023.03.15-01.42.01:971][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014514s)
+[2023.03.15-01.42.01:999][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.03.15-01.42.02:002][474]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-01.42.02:002][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-01.42.02:002][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-01.42.02:002][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-01.42.02:002][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-01.42.02:002][474]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-01.42.02:009][474]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-01.42.02:009][474]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-01.42.02:009][474]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-01.42.02:009][474]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-01.42.02:009][474]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-01.42.02:009][474]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-01.42.02:009][474]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-01.42.02:010][474]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-01.42.02:024][474]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-01.42.02:024][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-01.42.02:024][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-01.42.02:024][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-01.42.02:025][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-01.42.02:025][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-01.42.02:025][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-01.42.02:026][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-01.42.02:026][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-01.42.02:026][474]LogInit: FAudioDevice initialized.
+[2023.03.15-01.42.02:026][474]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-01.42.02:035][474]LogLoad: Game class is 'ElementalBrawlGameMode'
+[2023.03.15-01.42.02:037][474]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.03.14-18.42.02
+[2023.03.15-01.42.02:037][474]LogWorld: Bringing up level for play took: 0.001885
+[2023.03.15-01.42.02:038][474]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.03.15-01.42.02:040][474]LogTemp: Moveset Attached
+[2023.03.15-01.42.02:042][474]PIE: Server logged in
+[2023.03.15-01.42.02:042][474]PIE: Play in editor total start time 0.4 seconds.
+[2023.03.15-01.42.02:071][475]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.15-01.42.03:341][625]LogTemp: Warning: Overlap Happened
+[2023.03.15-01.42.06:269][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.42.06:269][973]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.42.06:269][973]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-01.42.06:269][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.42.06:280][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-01.42.06:296][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.42.06:301][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-01.42.06:301][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.42.06:302][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.42.06:305][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.42.06:306][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.15-01.42.06:342][974]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.03.15-01.42.42:749][ 65]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.15-01.42.42:773][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/Defence_Actions/EarthDefenceAction.EarthDefenceAction
+[2023.03.15-01.42.43:624][ 65]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.03.15-01.42.44:603][ 65]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.15-01.43.57:278][847]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.15-01.43.57:283][847]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.15-01.43.57:284][847]LogPlayLevel: [PlayLevel] Compiling EarthDefenceAction before play...
+[2023.03.15-01.43.57:328][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.03.15-01.43.57:329][847]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2023.03.15-01.43.57:329][847]LogHMD: Initializing OVRPlugin session
+[2023.03.15-01.43.57:601][847]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.15-01.43.57:601][847]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2023, 11:43:57 a.m.)
+[2023.03.15-01.43.57:647][847]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.43.57:658][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011461s)
+[2023.03.15-01.43.57:659][847]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-01.43.57:660][847]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2023.03.15-01.43.57:660][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012963s)
+[2023.03.15-01.43.57:684][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.03.15-01.43.57:685][847]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.15-01.43.57:685][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-01.43.57:685][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-01.43.57:685][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-01.43.57:685][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-01.43.57:685][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-01.43.57:685][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-01.43.57:685][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-01.43.57:685][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-01.43.57:686][847]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-01.43.57:686][847]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-01.43.57:686][847]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-01.43.57:686][847]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-01.43.57:694][847]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-01.43.57:709][847]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-01.43.57:710][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-01.43.57:710][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-01.43.57:710][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-01.43.57:711][847]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-01.43.57:711][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-01.43.57:711][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-01.43.57:712][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-01.43.57:712][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-01.43.57:712][847]LogInit: FAudioDevice initialized.
+[2023.03.15-01.43.57:712][847]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-01.43.57:724][847]LogLoad: Game class is 'ElementalBrawlGameMode'
+[2023.03.15-01.43.57:726][847]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.03.14-18.43.57
+[2023.03.15-01.43.57:726][847]LogWorld: Bringing up level for play took: 0.001915
+[2023.03.15-01.43.57:727][847]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.03.15-01.43.57:729][847]LogTemp: Moveset Attached
+[2023.03.15-01.43.57:733][847]PIE: Server logged in
+[2023.03.15-01.43.57:734][847]PIE: Play in editor total start time 0.451 seconds.
+[2023.03.15-01.43.57:762][848]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.15-01.43.59:264][ 24]LogTemp: Warning: Overlap Happened
+[2023.03.15-01.43.59:264][ 24]LogTemp: Warning: Overlap Happened
+[2023.03.15-01.44.00:439][165]LogTemp: Warning: Overlap Happened
+[2023.03.15-01.44.06:912][835]LogSlate: Window 'EarthDefenceAction' being destroyed
+[2023.03.15-01.44.06:920][835]LogSlate: Window 'EarthDefenceAction' being destroyed
+[2023.03.15-01.44.06:923][835]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-01.44.06:923][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.44.07:785][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.03.15-01.44.07:814][921]LogSavePackage: Moving 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/FirstPersonExampleMap3F2908E14984C44CCA6549916F5C1460.tmp' to 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2023.03.15-01.44.08:560][921]LogSavePackage: Moving 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/FirstPersonExampleMap_BuiltData628BEF2F4A04FB3050ED1987A08077F2.tmp' to 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.03.15-01.44.08:577][921]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.15-01.44.08:577][921]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.03.15-01.44.08:577][921]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.03.15-01.44.09:840][ 65]LogSavePackage: Moving 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Saved/EarthDefenceAction30109A7D44E08BE22E8FBF8C560AE942.tmp' to 'D:/Programming/ElementalBrawl/ElementalBrawl/ElementalBrawl/Content/FirstPersonCPP/Blueprints/Defence_Actions/EarthDefenceAction.uasset'
+[2023.03.15-01.44.09:850][ 65]AssetCheck: New page: Asset Save: EarthDefenceAction
+[2023.03.15-01.44.09:850][ 65]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Blueprints/Defence_Actions/EarthDefenceAction.EarthDefenceAction
+[2023.03.15-01.44.13:948][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.44.13:948][547]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-01.44.13:949][547]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-01.44.13:949][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.44.13:960][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-01.44.13:978][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-01.44.13:992][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-01.44.13:993][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.44.13:994][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-01.44.14:008][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-01.44.14:013][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.15-01.44.14:054][548]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.03.15-01.44.15:565][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2023.03.15-02.38.38:241][121]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2023.03.15-02.38.54:139][767]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.15-02.38.54:145][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-02.38.54:145][767]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2023, 12:38:54 p.m.)
+[2023.03.15-02.38.54:179][767]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-02.38.54:192][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013574s)
+[2023.03.15-02.38.54:195][767]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-02.38.54:196][767]LogPlayLevel: PIE: World Init took: (0.003800s)
+[2023.03.15-02.38.54:197][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017898s)
+[2023.03.15-02.38.54:223][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.03.15-02.38.54:232][767]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-02.38.54:233][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-02.38.54:233][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-02.38.54:233][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-02.38.54:233][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-02.38.54:233][767]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-02.38.54:242][767]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-02.38.54:257][767]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-02.38.54:257][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-02.38.54:257][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-02.38.54:257][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-02.38.54:258][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-02.38.54:258][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-02.38.54:258][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-02.38.54:260][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-02.38.54:260][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-02.38.54:260][767]LogInit: FAudioDevice initialized.
+[2023.03.15-02.38.54:260][767]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-02.38.54:274][767]LogLoad: Game class is 'ElementalBrawlGameMode'
+[2023.03.15-02.38.54:276][767]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.03.14-19.38.54
+[2023.03.15-02.38.54:276][767]LogWorld: Bringing up level for play took: 0.001764
+[2023.03.15-02.38.54:276][767]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.15-02.38.54:278][767]LogTemp: Moveset Attached
+[2023.03.15-02.38.54:280][767]PIE: Server logged in
+[2023.03.15-02.38.54:281][767]PIE: Play in editor total start time 0.137 seconds.
+[2023.03.15-02.39.05:805][140]LogTemp: Warning: Overlap Happened
+[2023.03.15-02.39.05:805][140]LogTemp: Warning: Overlap Happened
+[2023.03.15-02.39.11:511][824]LogTemp: Warning: Overlap Happened
+[2023.03.15-02.39.11:511][824]LogTemp: Warning: Overlap Happened
+[2023.03.15-02.39.13:036][  7]LogTemp: Warning: Overlap Happened
+[2023.03.15-02.39.13:429][ 54]LogTemp: Warning: Overlap Happened
+[2023.03.15-02.39.25:580][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.39.25:580][506]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-02.39.25:580][506]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.39.25:580][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.39.25:591][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-02.39.25:707][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.39.25:724][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-02.39.25:724][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-02.39.25:725][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-02.39.25:735][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.39.25:739][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.03.15-02.39.25:781][507]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.15-02.39.33:659][312]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.15-02.39.33:665][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-02.39.33:665][312]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2023, 12:39:33 p.m.)
+[2023.03.15-02.39.33:688][312]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-02.39.33:702][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013622s)
+[2023.03.15-02.39.33:703][312]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-02.39.33:703][312]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2023.03.15-02.39.33:703][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015232s)
+[2023.03.15-02.39.33:727][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.03.15-02.39.33:730][312]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.15-02.39.33:730][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-02.39.33:730][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-02.39.33:730][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-02.39.33:730][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-02.39.33:730][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-02.39.33:730][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-02.39.33:730][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-02.39.33:730][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-02.39.33:731][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-02.39.33:731][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-02.39.33:731][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-02.39.33:731][312]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-02.39.33:739][312]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-02.39.33:754][312]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-02.39.33:754][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-02.39.33:754][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-02.39.33:754][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-02.39.33:755][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-02.39.33:755][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-02.39.33:755][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-02.39.33:756][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-02.39.33:756][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-02.39.33:756][312]LogInit: FAudioDevice initialized.
+[2023.03.15-02.39.33:756][312]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-02.39.33:769][312]LogLoad: Game class is 'ElementalBrawlGameMode'
+[2023.03.15-02.39.33:771][312]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.03.14-19.39.33
+[2023.03.15-02.39.33:771][312]LogWorld: Bringing up level for play took: 0.001610
+[2023.03.15-02.39.33:771][312]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.15-02.39.33:773][312]LogTemp: Moveset Attached
+[2023.03.15-02.39.33:775][312]PIE: Server logged in
+[2023.03.15-02.39.33:776][312]PIE: Play in editor total start time 0.112 seconds.
+[2023.03.15-02.40.36:730][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.40.36:731][842]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-02.40.36:731][842]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.40.36:731][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.40.36:744][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-02.40.36:842][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.40.36:857][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.40.36:858][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-02.40.36:859][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.15-02.40.36:865][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.15-02.40.36:915][843]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.15-02.40.48:782][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.15-02.40.48:788][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-02.40.48:788][ 62]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2023, 12:40:48 p.m.)
+[2023.03.15-02.40.48:818][ 62]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.03.15-02.40.48:829][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011378s)
+[2023.03.15-02.40.48:832][ 62]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.15-02.40.48:832][ 62]LogPlayLevel: PIE: World Init took: (0.002481s)
+[2023.03.15-02.40.48:832][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014141s)
+[2023.03.15-02.40.48:853][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.15-02.40.48:856][ 62]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.15-02.40.48:856][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-02.40.48:856][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-02.40.48:856][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-02.40.48:856][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-02.40.48:856][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-02.40.48:856][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.15-02.40.48:856][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-02.40.48:856][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-02.40.48:857][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-02.40.48:857][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-02.40.48:857][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-02.40.48:857][ 62]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.15-02.40.48:865][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.15-02.40.48:866][ 62]LogAudioMixer: Display: 1: FrontRight
+[2023.03.15-02.40.48:866][ 62]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.15-02.40.48:866][ 62]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.15-02.40.48:866][ 62]LogAudioMixer: Display: 4: BackLeft
+[2023.03.15-02.40.48:866][ 62]LogAudioMixer: Display: 5: BackRight
+[2023.03.15-02.40.48:866][ 62]LogAudioMixer: Display: 6: SideLeft
+[2023.03.15-02.40.48:866][ 62]LogAudioMixer: Display: 7: SideRight
+[2023.03.15-02.40.48:884][ 62]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.03.15-02.40.48:884][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-02.40.48:884][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-02.40.48:884][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-02.40.48:884][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.15-02.40.48:884][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.15-02.40.48:884][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.15-02.40.48:885][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.15-02.40.48:886][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.15-02.40.48:886][ 62]LogInit: FAudioDevice initialized.
+[2023.03.15-02.40.48:886][ 62]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2023.03.15-02.40.48:901][ 62]LogLoad: Game class is 'ElementalBrawlGameMode'
+[2023.03.15-02.40.48:904][ 62]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.03.14-19.40.48
+[2023.03.15-02.40.48:904][ 62]LogWorld: Bringing up level for play took: 0.002091
+[2023.03.15-02.40.48:904][ 62]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:761][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:762][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:763][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:764][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:765][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:766][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:767][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:768][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:769][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:770][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Warning: SymLoadModuleExW. Error: 6
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: === Critical error: ===
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: 
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000000000000f8
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: 
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: [Callstack] 0x00007ff9134b0c9e UnknownFunction []
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: [Callstack] 0x00000278d5c47200 UnknownFunction []
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: [Callstack] 0x00000278d5c47200 UnknownFunction []
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: [Callstack] 0x00000278d5c47200 UnknownFunction []
+[2023.03.15-02.40.50:771][ 62]LogWindows: Error: 
+[2023.03.15-02.40.50:774][ 62]LogExit: Executing StaticShutdownAfterError
+[2023.03.15-02.40.50:777][ 62]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.03.15-02.40.50:777][ 62]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.03.15-02.40.50:778][ 62]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.03.15-02.40.50:815][ 62]Log file closed, 03/14/23 19:40:50

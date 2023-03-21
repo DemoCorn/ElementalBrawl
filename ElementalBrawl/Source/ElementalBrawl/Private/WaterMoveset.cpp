@@ -35,6 +35,8 @@ void UWaterMoveset::BasicAttack()
 
 			// Spawn projectile and set params
 			AElementalBrawlProjectile* projectile = World->SpawnActor<AElementalBrawlProjectile>(BasicAttackProjectile, SpawnLocation, SpawnRotation, ActorSpawnParams);
+			projectile->isWaterProjectile = true;
+			projectile->mCharecter = mCharecter;
 			projectile->mDamage = 5.0f;
 			projectile->Tags.Add("Projectile");
 
@@ -128,6 +130,8 @@ void UWaterMoveset::CooldownAction()
 
 			// Spawn projectile and set params
 			AElementalBrawlProjectile* projectile = World->SpawnActor<AElementalBrawlProjectile>(mCooldownShot, SpawnLocation, SpawnRotation, ActorSpawnParams);
+			projectile->isWaterProjectile = true;
+			projectile->mCharecter = mCharecter;
 			projectile->mDamage = 5.0f;
 
 			UProjectileMovementComponent* projectileMovement = projectile->GetProjectileMovement();
