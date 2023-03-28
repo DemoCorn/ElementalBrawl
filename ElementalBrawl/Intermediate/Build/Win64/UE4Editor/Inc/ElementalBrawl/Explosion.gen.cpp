@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeExplosion() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AExplosion, 2352586120);
+	IMPLEMENT_CLASS(AExplosion, 1449424517);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<AExplosion>()
 	{
 		return AExplosion::StaticClass();

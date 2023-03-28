@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeAirCooldown() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AAirCooldown, 4210678042);
+	IMPLEMENT_CLASS(AAirCooldown, 2880749440);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<AAirCooldown>()
 	{
 		return AAirCooldown::StaticClass();

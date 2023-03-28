@@ -89,7 +89,7 @@ void EmptyLinkFunctionForGeneratedCodeFireballProjectile() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AFireballProjectile, 3424168409);
+	IMPLEMENT_CLASS(AFireballProjectile, 1573247298);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<AFireballProjectile>()
 	{
 		return AFireballProjectile::StaticClass();

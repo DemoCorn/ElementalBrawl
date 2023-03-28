@@ -2,6 +2,12 @@
 
 
 #include "Explosion.h"
+#include "GameFramework/ProjectileMovementComponent.h"
+
+AExplosion::AExplosion() : AElementalBrawlProjectile()
+{
+	ProjectileMovement->InitialSpeed = 0.0f;
+}
 
 void AExplosion::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {

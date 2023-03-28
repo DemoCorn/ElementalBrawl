@@ -40,7 +40,7 @@ protected:
 	float mDamage = 10.0f;
 
 	UPROPERTY(EditAnywhere, Category = Movement)
-	float moveSpeed = 100.0f;
+	float moveSpeed = 1000.0f;
 	
 	bool launched = false;
 	FVector direction = {0.0f,0.0f,0.0f};

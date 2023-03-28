@@ -17,6 +17,8 @@ class ELEMENTALBRAWL_API AExplosion : public AElementalBrawlProjectile
 	void ResetHit() { canHit = true; GetWorld()->GetTimerManager().ClearTimer(mHitHandle); }
 
 public:
+	AExplosion();
+
 	virtual void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
 
 	FTimerHandle mHitHandle;

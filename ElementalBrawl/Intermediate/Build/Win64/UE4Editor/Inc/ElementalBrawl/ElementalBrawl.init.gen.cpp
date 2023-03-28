@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawl_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x9F84CFB4,
+				0x1A7BFAA3,
 				0x79DCF8F3,
 				METADATA_PARAMS(nullptr, 0)
 			};

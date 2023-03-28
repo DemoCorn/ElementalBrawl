@@ -11,3 +11,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\ElementalBrawlCharacter.generated.h
 D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\ElementalBrawlProjectile.generated.h
 D:\Programming\ElementalBrawl\ElementalBrawl\ElementalBrawl\Intermediate\Build\Win64\UE4Editor\Inc\ElementalBrawl\Explosion.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

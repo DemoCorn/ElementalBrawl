@@ -171,7 +171,7 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlProjectile() {}
 		{ "ToolTip", "Sphere collision component" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_CollisionComp = { "CollisionComp", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, CollisionComp), Z_Construct_UClass_USphereComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_CollisionComp_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_CollisionComp_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_CollisionComp = { "CollisionComp", nullptr, (EPropertyFlags)0x00200800000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, CollisionComp), Z_Construct_UClass_USphereComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_CollisionComp_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_CollisionComp_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
@@ -182,21 +182,21 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlProjectile() {}
 		{ "ToolTip", "Projectile movement component" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement = { "ProjectileMovement", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, ProjectileMovement), Z_Construct_UClass_UProjectileMovementComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement = { "ProjectileMovement", nullptr, (EPropertyFlags)0x00200800000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, ProjectileMovement), Z_Construct_UClass_UProjectileMovementComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_sphereSize_MetaData[] = {
 		{ "Category", "SphereComposition" },
 		{ "ModuleRelativePath", "ElementalBrawlProjectile.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_sphereSize = { "sphereSize", nullptr, (EPropertyFlags)0x0040000000030001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, sphereSize), METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_sphereSize_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_sphereSize_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_sphereSize = { "sphereSize", nullptr, (EPropertyFlags)0x0020080000030001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, sphereSize), METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_sphereSize_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_sphereSize_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_shotSpeed_MetaData[] = {
 		{ "Category", "SphereComposition" },
 		{ "ModuleRelativePath", "ElementalBrawlProjectile.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_shotSpeed = { "shotSpeed", nullptr, (EPropertyFlags)0x0040000000030001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, shotSpeed), METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_shotSpeed_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_shotSpeed_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_shotSpeed = { "shotSpeed", nullptr, (EPropertyFlags)0x0020080000030001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AElementalBrawlProjectile, shotSpeed), METADATA_PARAMS(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_shotSpeed_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_shotSpeed_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AElementalBrawlProjectile_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_CollisionComp,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AElementalBrawlProjectile_Statics::NewProp_ProjectileMovement,
@@ -230,7 +230,7 @@ void EmptyLinkFunctionForGeneratedCodeElementalBrawlProjectile() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AElementalBrawlProjectile, 1867981656);
+	IMPLEMENT_CLASS(AElementalBrawlProjectile, 1531749968);
 	template<> ELEMENTALBRAWL_API UClass* StaticClass<AElementalBrawlProjectile>()
 	{
 		return AElementalBrawlProjectile::StaticClass();
